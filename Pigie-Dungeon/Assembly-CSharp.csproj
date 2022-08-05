@@ -41,6 +41,7 @@
      <Compile Include="Assets\External Assets\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Vehicles\Car\Scripts\CarSelfRighting.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Vehicles\Car\Scripts\Mudguard.cs" />
+     <Compile Include="Assets\Mixamo\Magic Pack\Demo\CameraScroll.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\ParticleSystems\Scripts\Explosive.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Cameras\Scripts\TargetFieldOfView.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\DynamicShadowSettings.cs" />
@@ -82,6 +83,7 @@
      <Compile Include="Assets\External Assets\Standard Assets\ParticleSystems\Scripts\SmokeParticles.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
+     <Compile Include="Assets\Scrips\EnemyMovement.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
@@ -142,8 +144,8 @@
      <Compile Include="Assets\External Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\FPSCounter.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\SimpleActivatorMenu.cs" />
-     <Compile Include="Assets\Scrips\EnemyMovement.cs" />
-     <Compile Include="Assets\Mixamo\Magic Pack\Demo\CameraScroll.cs" />
+     <Compile Include="Assets\Scrips\Weapon.cs" />
+     <Compile Include="Assets\Scrips\EnemyHealth.cs" />
      <None Include="Assets\External Assets\Earth_Mage\README.txt" />
      <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\StdLib.hlsl" />
      <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\Debug\Waveform.shader" />
@@ -846,13 +848,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Unity.Postprocessing.Editor.csproj">
-      <Project>{ce9ef9d4-37f9-750b-4775-ba063a1d0ef0}</Project>
-      <Name>Unity.Postprocessing.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.Postprocessing.Runtime.csproj">
       <Project>{ae2e2a3c-3179-99e5-7931-d7bbdffd170b}</Project>
       <Name>Unity.Postprocessing.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Postprocessing.Editor.csproj">
+      <Project>{ce9ef9d4-37f9-750b-4775-ba063a1d0ef0}</Project>
+      <Name>Unity.Postprocessing.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
