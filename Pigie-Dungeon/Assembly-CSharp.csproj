@@ -49,6 +49,7 @@
      <Compile Include="Assets\External Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\LerpControlledBob.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\ParticleSystems\Scripts\ExplosionFireAndDebris.cs" />
+     <Compile Include="Assets\Scrips\EnemyHealth.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\PlatformSpecificContent.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
@@ -104,6 +105,7 @@
      <Compile Include="Assets\External Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneAiControl.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\ParticleSystems\Scripts\ExtinguishableParticleSystem.cs" />
+     <Compile Include="Assets\Scrips\Weapon.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\ForcedReset.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
@@ -144,8 +146,7 @@
      <Compile Include="Assets\External Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\FPSCounter.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\SimpleActivatorMenu.cs" />
-     <Compile Include="Assets\Scrips\Weapon.cs" />
-     <Compile Include="Assets\Scrips\EnemyHealth.cs" />
+     <Compile Include="Assets\Scrips\Cast.cs" />
      <None Include="Assets\External Assets\Earth_Mage\README.txt" />
      <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\StdLib.hlsl" />
      <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\Debug\Waveform.shader" />

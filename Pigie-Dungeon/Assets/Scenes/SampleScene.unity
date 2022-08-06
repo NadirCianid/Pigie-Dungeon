@@ -2771,5 +2771,41 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 7304535447112078078, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: CollisionModule.type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7304535447112078078, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: ShapeModule.radius.value
+      value: 0.0001
+      objectReference: {fileID: 0}
+    - target: {fileID: 7304535447112078078, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: CollisionModule.radiusScale
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7304535447112078078, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: CollisionModule.minKillSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7304535447112078078, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: CollisionModule.m_Dampen.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7304535447112078078, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: CollisionModule.collidesWithDynamic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7304535447112078078, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: CollisionModule.m_EnergyLossOnCollision.scalar
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7304535447112078078, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: CollisionModule.multiplyColliderForceByParticleSpeed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7304535447112078078, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: CollisionModule.multiplyColliderForceByCollisionAngle
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}

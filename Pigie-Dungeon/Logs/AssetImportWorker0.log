@@ -15,11 +15,11 @@ D:/Unity Projects/Experementing/Zombie-Shooter/Pigie-Dungeon
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56294
+65292
 Successfully changed project path to: D:/Unity Projects/Experementing/Zombie-Shooter/Pigie-Dungeon
 D:/Unity Projects/Experementing/Zombie-Shooter/Pigie-Dungeon
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 173.01 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 173.09 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
 [Subsystems] Discovering subsystems at path D:/Programms/2020.3.33f1/Editor/Data/Resources/UnitySubsystems
@@ -35,1193 +35,93 @@ Initialize mono
 Mono path[0] = 'D:/Programms/2020.3.33f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Programms/2020.3.33f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Programms/2020.3.33f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56816
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56856
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Programms/2020.3.33f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Programms/2020.3.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.013541 seconds.
+Registered in 0.003747 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 194.79 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 262.39 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.442 seconds
+- Completed reload, in  2.088 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2443ms)
-		BeginReloadAssembly (222ms)
+	ReloadAssembly (2089ms)
+		BeginReloadAssembly (241ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (4ms)
-		EndReloadAssembly (1923ms)
-			LoadAssemblies (217ms)
-			RebuildTransferFunctionScriptingTraits (1ms)
-			SetupTypeCache (625ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1593ms)
+			LoadAssemblies (241ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (463ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (127ms)
-			SetupLoadedEditorAssemblies (839ms)
+			RebuildScriptCaches (91ms)
+			SetupLoadedEditorAssemblies (716ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (16ms)
+				InitializePlatformSupportModulesInManaged (17ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (195ms)
+				RefreshPlugins (263ms)
 				BeforeProcessingInitializeOnLoad (46ms)
-				ProcessInitializeOnLoadAttributes (433ms)
-				ProcessInitializeOnLoadMethodAttributes (148ms)
+				ProcessInitializeOnLoadAttributes (289ms)
+				ProcessInitializeOnLoadMethodAttributes (100ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.011360 seconds.
+Registered in 0.011283 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.48 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.349 seconds
+- Completed reload, in  3.092 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3353ms)
-		BeginReloadAssembly (490ms)
+	ReloadAssembly (3094ms)
+		BeginReloadAssembly (429ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
+			DisableScriptedObjects (15ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (46ms)
-		EndReloadAssembly (2625ms)
-			LoadAssemblies (346ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (2485ms)
+			LoadAssemblies (333ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (899ms)
+			SetupTypeCache (849ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (149ms)
-			SetupLoadedEditorAssemblies (1005ms)
+			RebuildScriptCaches (148ms)
+			SetupLoadedEditorAssemblies (912ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (15ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (299ms)
-				ProcessInitializeOnLoadAttributes (651ms)
-				ProcessInitializeOnLoadMethodAttributes (32ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (24ms)
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
-Refreshing native plugins compatible for Editor in 1.41 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1765 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.3 MB.
-System memory in use after: 98.0 MB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2224.
-Total: 8.193600 ms (FindLiveObjects: 0.477100 ms CreateObjectMapping: 0.325400 ms MarkObjects: 6.539000 ms  DeleteObjects: 0.849100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df3bef19faa3d606219e514e292f909') in 0.467973 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000992 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de7142112737990c962e769a7406202') in 0.020838 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 16.932083 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3da66c30d4225db491148cb4a3ee86') in 0.034604 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000661 seconds.
-  path: Assets/Prefabs/wand_green.prefab
-  artifactKey: Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/wand_green.prefab using Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958aa50659e50ae752314b9c394fade6') in 0.032070 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.066646 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a77f1c2a0fb706a19d916e760b1985f') in 0.038044 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000577 seconds.
-  path: Assets/Prefabs/wand_green.prefab
-  artifactKey: Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/wand_green.prefab using Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5df86b42854f7df32cc0f1d26ce9b85c') in 0.040799 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 14.624344 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b637cdeaf0a49f54e65a42df36bb975') in 0.311242 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000515 seconds.
-  path: Assets/Prefabs/wand_green.prefab
-  artifactKey: Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/wand_green.prefab using Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f850d6f7b6fa37af471e9f6f17ad6a') in 0.052952 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 44.434305 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09aabcdb521dcc7abf264740e5e39636') in 0.162633 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000612 seconds.
-  path: Assets/Prefabs/wand_green.prefab
-  artifactKey: Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/wand_green.prefab using Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e691e7f83eadb8846cb9dd63e87b31b0') in 0.024673 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.783878 seconds.
-  path: Assets/External Assets/Standard Assets/Environment/Water (Basic)/Models/WaterBasicPlane.fbx
-  artifactKey: Guid(ce8d79c79d11b8f9d00076e98d76c639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Environment/Water (Basic)/Models/WaterBasicPlane.fbx using Guid(ce8d79c79d11b8f9d00076e98d76c639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '554ff573b183e03276b494db62efd8bd') in 0.226443 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000514 seconds.
-  path: Assets/External Assets/Stones_and_buried_treasure/3d_Models/Stones_and_buried_treasure.FBX
-  artifactKey: Guid(5f3a7deba91ee3341b2266db1be8c0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Stones_and_buried_treasure/3d_Models/Stones_and_buried_treasure.FBX using Guid(5f3a7deba91ee3341b2266db1be8c0a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f151a4d5e7fb1569453e311c0b2222') in 1.769712 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000601 seconds.
-  path: Assets/External Assets/BrokenVector/LowPolyDungeon/Models/Furniture/WeaponRack_Big.fbx
-  artifactKey: Guid(5a3630cf5f3e0b7489e748180d9a081a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/BrokenVector/LowPolyDungeon/Models/Furniture/WeaponRack_Big.fbx using Guid(5a3630cf5f3e0b7489e748180d9a081a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8da1dfc7caeebfb00ae30151075d11d') in 0.433936 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000460 seconds.
-  path: Assets/External Assets/BrokenVector/LowPolyDungeon/Models/Clutter/Wineglass.fbx
-  artifactKey: Guid(2d269f0810b2463428bc6cef8daca295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/BrokenVector/LowPolyDungeon/Models/Clutter/Wineglass.fbx using Guid(2d269f0810b2463428bc6cef8daca295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ba01da2dd7edc5bfffeb7085291406') in 0.762566 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000630 seconds.
-  path: Assets/External Assets/LowPolyDungeonsLite/Models/Wood_02.fbx
-  artifactKey: Guid(e8f98bd8e8aa901469815fc68e3094aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/LowPolyDungeonsLite/Models/Wood_02.fbx using Guid(e8f98bd8e8aa901469815fc68e3094aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25c86869bc291e4be37a30481c9ad340') in 0.067793 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000449 seconds.
-  path: Assets/External Assets/Standard Assets/Environment/Water/Water/Models/WaterPlane.fbx
-  artifactKey: Guid(ba6a41dc489914734857bb5924eb70ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Environment/Water/Water/Models/WaterPlane.fbx using Guid(ba6a41dc489914734857bb5924eb70ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58066fea444f9fdc297abefd2e336696') in 0.087701 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000483 seconds.
-  path: Assets/External Assets/BrokenVector/LowPolyDungeon/Models/Furniture/WeaponRack_Small.fbx
-  artifactKey: Guid(43dd9523f76f5d4448be24e15c4a347c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/BrokenVector/LowPolyDungeon/Models/Furniture/WeaponRack_Small.fbx using Guid(43dd9523f76f5d4448be24e15c4a347c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e24cec6ec57ea54f454e9e1bcfe23a4') in 0.079415 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.771608 seconds.
-  path: Assets/External Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftWingsPropeller.fbx
-  artifactKey: Guid(8fb5ebe73f3784e4fab98b15f1299e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftWingsPropeller.fbx using Guid(8fb5ebe73f3784e4fab98b15f1299e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb27e633c0c81e0fe4bb0b97860b1483') in 1.225699 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000326 seconds.
-  path: Assets/External Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftWingsPropeller.fbx
-  artifactKey: Guid(8fb5ebe73f3784e4fab98b15f1299e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftWingsPropeller.fbx using Guid(8fb5ebe73f3784e4fab98b15f1299e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb27e633c0c81e0fe4bb0b97860b1483') in 0.760417 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000452 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d64ba1c1d9965f841bc7754e7e791c2') in 0.055470 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000458 seconds.
-  path: Assets/Prefabs/wand_green.prefab
-  artifactKey: Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/wand_green.prefab using Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80db9158f1be760e4e86967ee9a97078') in 0.033356 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.526335 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f74a8c1f90a87931fa054057d11f44b1') in 0.031015 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000483 seconds.
-  path: Assets/Prefabs/wand_green.prefab
-  artifactKey: Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/wand_green.prefab using Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2d1a34a40f09c9da946a0322f10a36') in 0.027689 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 18.399981 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '339b9eed2e2d599787cbfba042a34a7a') in 0.086376 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000563 seconds.
-  path: Assets/Prefabs/wand_green.prefab
-  artifactKey: Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/wand_green.prefab using Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e39961fc78510e015ec0092a092964') in 0.053814 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.074957 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6c3d97ed3250085c69dd9da2db1d16f') in 0.044751 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000533 seconds.
-  path: Assets/Prefabs/wand_green.prefab
-  artifactKey: Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/wand_green.prefab using Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da49e681f2c5f38284a4e4f237cc8ab') in 0.049352 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.989416 seconds.
-  path: Assets/External Assets/Standard Assets/Prototyping/Materials/YellowSmooth.mat
-  artifactKey: Guid(6e1d36c4bbd37d54f9ea183e4f5fd656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Prototyping/Materials/YellowSmooth.mat using Guid(6e1d36c4bbd37d54f9ea183e4f5fd656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0b460cb4287dd19124621f9a46a344') in 0.179792 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.873423 seconds.
-  path: Assets/SampleScenes/Materials/WhiteSmooth.mat
-  artifactKey: Guid(616853845a4a54949ac851f2f807aa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleScenes/Materials/WhiteSmooth.mat using Guid(616853845a4a54949ac851f2f807aa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e4e231986075785ea0fb7e5eba1f96d') in 0.073149 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000597 seconds.
-  path: Assets/External Assets/Stones_and_buried_treasure/Materials/Wood_3.mat
-  artifactKey: Guid(2a4453da25b476a4bbdcbc385bbca642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Stones_and_buried_treasure/Materials/Wood_3.mat using Guid(2a4453da25b476a4bbdcbc385bbca642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74d69dd3489610ffea1c506a8de2165') in 0.056425 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000974 seconds.
-  path: Assets/External Assets/Standard Assets/Prototyping/Materials/YellowGrid.mat
-  artifactKey: Guid(82096aab38f01cb40a1cbf8629a810ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Prototyping/Materials/YellowGrid.mat using Guid(82096aab38f01cb40a1cbf8629a810ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874f9cfee8bb2d95bbd68701ff99bcff') in 0.068502 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000499 seconds.
-  path: Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Wood_Polished.mat
-  artifactKey: Guid(f0999b03096512247a557b9bba30ef43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Wood_Polished.mat using Guid(f0999b03096512247a557b9bba30ef43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba55d63c4342c5e3f1ca0cd76949a825') in 0.474944 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000572 seconds.
-  path: Assets/External Assets/Standard Assets/Effects/Projectors/Materials/GridProjector.mat
-  artifactKey: Guid(c7d1a73cf0f423947bae4e238665d9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Effects/Projectors/Materials/GridProjector.mat using Guid(c7d1a73cf0f423947bae4e238665d9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd00bfee07be4f732c4cc1af3d6a8358e') in 0.090127 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000505 seconds.
-  path: Assets/External Assets/Fantasy Art Package/Sources/Wall/Materials/stone_02_color.mat
-  artifactKey: Guid(880fe7ae622c170458eed18c34a3a1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Fantasy Art Package/Sources/Wall/Materials/stone_02_color.mat using Guid(880fe7ae622c170458eed18c34a3a1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd449e8ff9c72726e06a17c9cf44b63f1') in 0.314988 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000452 seconds.
-  path: Assets/External Assets/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat
-  artifactKey: Guid(e30ff3588e719f34bbf0c66f22d97487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat using Guid(e30ff3588e719f34bbf0c66f22d97487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c21a604332a924d6cbd06450d73fb850') in 0.087575 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000502 seconds.
-  path: Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Floor_Muddy.mat
-  artifactKey: Guid(2bbbb3d84dce75d4581b151f12702225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Floor_Muddy.mat using Guid(2bbbb3d84dce75d4581b151f12702225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f64ba6936eeeea8f3e8b1479e15849') in 0.328105 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000471 seconds.
-  path: Assets/External Assets/Standard Assets/ParticleSystems/Materials/ParticleDuststorm.mat
-  artifactKey: Guid(7911795df27dd464190eed77dda90191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/ParticleSystems/Materials/ParticleDuststorm.mat using Guid(7911795df27dd464190eed77dda90191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '865e6c3f24a3896637c0d927df23c29a') in 0.095142 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000461 seconds.
-  path: Assets/External Assets/Standard Assets/Effects/Projectors/Materials/LightProjector.mat
-  artifactKey: Guid(c8c80c5b03f5c7e40b07eb2170e667e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Effects/Projectors/Materials/LightProjector.mat using Guid(c8c80c5b03f5c7e40b07eb2170e667e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d13bd258bf31e1397a424e7248f4a2') in 0.066975 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000468 seconds.
-  path: Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Stone_Floor.mat
-  artifactKey: Guid(88056ad3707bb6346ad6e69bf350d54d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Stone_Floor.mat using Guid(88056ad3707bb6346ad6e69bf350d54d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d9000b29cff581cf9412d4b298614a') in 0.052519 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000461 seconds.
-  path: Assets/SampleScenes/Materials/YellowSmooth.mat
-  artifactKey: Guid(61bcea22404bda2469670dd9255037db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleScenes/Materials/YellowSmooth.mat using Guid(61bcea22404bda2469670dd9255037db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0986ead4a3f3fbc916380d1c7d79ba0') in 0.046013 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000467 seconds.
-  path: Assets/External Assets/Standard Assets/ParticleSystems/Materials/ParticleFirework.mat
-  artifactKey: Guid(9f3080141f1f64197825663e067f94f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/ParticleSystems/Materials/ParticleFirework.mat using Guid(9f3080141f1f64197825663e067f94f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c560f16144c405481accd8a4e599eda6') in 0.077320 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000414 seconds.
-  path: Assets/External Assets/Stones_and_buried_treasure/Materials/Wood_2.mat
-  artifactKey: Guid(de5247fed8db2f34d80b9899592e522c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Stones_and_buried_treasure/Materials/Wood_2.mat using Guid(de5247fed8db2f34d80b9899592e522c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c7c8f1a6e5ff28527bc572c38df6a4c') in 0.038969 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000658 seconds.
-  path: Assets/External Assets/Fantasy Art Package/Sources/Wall/Materials/stone_02_color 2.mat
-  artifactKey: Guid(bd35eea62700894429dfa497d4706c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Fantasy Art Package/Sources/Wall/Materials/stone_02_color 2.mat using Guid(bd35eea62700894429dfa497d4706c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74134afd6d14448e6b1e66e2c23afce9') in 0.147379 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000479 seconds.
-  path: Assets/SampleScenes/Materials/OrangeSmooth.mat
-  artifactKey: Guid(a24037aa2dae5b145b048dcaf948032a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleScenes/Materials/OrangeSmooth.mat using Guid(a24037aa2dae5b145b048dcaf948032a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3583ee6ef0b8a94dcf461743ef601948') in 0.074348 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000409 seconds.
-  path: Assets/External Assets/Fantasy Art Package/Sources/Wall/Materials/stone_02_color 1.mat
-  artifactKey: Guid(29e7ca3a48c3de44eab5985c4a870fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Fantasy Art Package/Sources/Wall/Materials/stone_02_color 1.mat using Guid(29e7ca3a48c3de44eab5985c4a870fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32cfc8a59f1e4e75e7f13993c2474a6e') in 0.044997 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000459 seconds.
-  path: Assets/External Assets/Stones_and_buried_treasure/Materials/Wood_1.mat
-  artifactKey: Guid(b25397e34de9b8648b8b72a73099bfb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Stones_and_buried_treasure/Materials/Wood_1.mat using Guid(b25397e34de9b8648b8b72a73099bfb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '980236ae07ada71e3c9988607375edf2') in 0.032047 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000428 seconds.
-  path: Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Wood_Basic.mat
-  artifactKey: Guid(2cb987137b739894682ccea9106cd69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Wood_Basic.mat using Guid(2cb987137b739894682ccea9106cd69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2cb4cf4d01ad93377ffb0f2b3c0d56e') in 0.032982 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.339407 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bb4598995b840d82067a5ba1245d626') in 0.029974 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000460 seconds.
-  path: Assets/Prefabs/wand_green.prefab
-  artifactKey: Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/wand_green.prefab using Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86eeb78d2421bf9c7481bf50a8ef2728') in 0.027849 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.559158 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c5f51333a19e6148267f5f6acbadbc2') in 0.032457 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000689 seconds.
-  path: Assets/Prefabs/wand_green.prefab
-  artifactKey: Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/wand_green.prefab using Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54ff4b6e744c6aa28e0a00c23775006') in 0.046782 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 50.258079 seconds.
-  path: Assets/External Assets/Fantasy Art Package/Sources/Materials/716195_rope_texture.mat
-  artifactKey: Guid(b76f35b9a56a7a445a66930e503a07b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Fantasy Art Package/Sources/Materials/716195_rope_texture.mat using Guid(b76f35b9a56a7a445a66930e503a07b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f357d2ff2592a7834006b401bf43d6') in 0.086522 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000885 seconds.
-  path: Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageGrey.mat
-  artifactKey: Guid(141b5bb76b8b39342a5a787acbeaabfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageGrey.mat using Guid(141b5bb76b8b39342a5a787acbeaabfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3d071ef5284dde80abdeaf70a7589c') in 0.160146 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000516 seconds.
-  path: Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageWhite.mat
-  artifactKey: Guid(6f36a222811073946936cf1cdeb78f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageWhite.mat using Guid(6f36a222811073946936cf1cdeb78f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64396c089983deed9f70e8b3c6f432b1') in 0.115802 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000454 seconds.
-  path: Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetWhite.mat
-  artifactKey: Guid(365a29a7757a91544b92d59a78390495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetWhite.mat using Guid(365a29a7757a91544b92d59a78390495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b76b9006daba3726981f4379d4d75c') in 0.158393 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000494 seconds.
-  path: Assets/Mixamo/Magic Pack/Characters/Materials/Alpha_Body_MAT.mat
-  artifactKey: Guid(4867322cf20d67b4793834ccb7537591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mixamo/Magic Pack/Characters/Materials/Alpha_Body_MAT.mat using Guid(4867322cf20d67b4793834ccb7537591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc166fd2232a216329cb9f8bb8c2fbb5') in 0.083656 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000538 seconds.
-  path: Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersWhite.mat
-  artifactKey: Guid(ef1216aa37a0cc249a6a6f5abbd25665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersWhite.mat using Guid(ef1216aa37a0cc249a6a6f5abbd25665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8a24241be12a66907c0e109ba2d65b') in 0.094354 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000526 seconds.
-  path: Assets/External Assets/DeepNest/Devil_Bulldog_Lite/Showcases/materials/background.mat
-  artifactKey: Guid(ff8e9d41b2102c042aca778063dac82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/DeepNest/Devil_Bulldog_Lite/Showcases/materials/background.mat using Guid(ff8e9d41b2102c042aca778063dac82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bdde81d0a440da071d1913045e2bc64') in 0.052640 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000430 seconds.
-  path: Assets/Mixamo/Magic Pack/Characters/Materials/Alpha_Joints_MAT.mat
-  artifactKey: Guid(bb058fbc18c6ae64e9427db3f8279f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mixamo/Magic Pack/Characters/Materials/Alpha_Joints_MAT.mat using Guid(bb058fbc18c6ae64e9427db3f8279f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb82210414d9f9da193914e1f72959e') in 0.043098 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000644 seconds.
-  path: Assets/SampleScenes/Models/Materials/Asteroid.mat
-  artifactKey: Guid(ace554b28b3c23448817bd8c63e751ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SampleScenes/Models/Materials/Asteroid.mat using Guid(ace554b28b3c23448817bd8c63e751ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30b4eca360a319605e31052b5b73d1ab') in 0.048167 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000444 seconds.
-  path: Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurWhite.mat
-  artifactKey: Guid(f5a209142cf260f4a96ca747e0e4dadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurWhite.mat using Guid(f5a209142cf260f4a96ca747e0e4dadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3548c6891d05e8e691e808624ea089ee') in 0.044485 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000427 seconds.
-  path: Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersGrey.mat
-  artifactKey: Guid(9cc96cc80c50454429965171ff4e500d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersGrey.mat using Guid(9cc96cc80c50454429965171ff4e500d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dcb86cb23b240b30949f6b23eccb56f') in 0.099522 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000486 seconds.
-  path: Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetGrey.mat
-  artifactKey: Guid(42672579dbdf2c8449598d21e2c569ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetGrey.mat using Guid(42672579dbdf2c8449598d21e2c569ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03f40133986bd05e5f620a3de9abb0c5') in 0.126050 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000434 seconds.
-  path: Assets/External Assets/Fantasy Art Package/Sources/Models/Materials/Bag-Bag.mat
-  artifactKey: Guid(1cb2f6bbe84dd6b499c8afef7d83d2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Fantasy Art Package/Sources/Models/Materials/Bag-Bag.mat using Guid(1cb2f6bbe84dd6b499c8afef7d83d2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61af38da96f0135044334f09f8d69e7') in 0.085581 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000512 seconds.
-  path: Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurGrey.mat
-  artifactKey: Guid(d5b08f0e43171dd468f4fed8bb5d0cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurGrey.mat using Guid(d5b08f0e43171dd468f4fed8bb5d0cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc903bc7fc6fb04b8396ed2cc225d37') in 0.083207 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.001077 seconds.
-  path: Assets/External Assets/Pigie/Materials/B0201@1.mat
-  artifactKey: Guid(21b6121aba08e404fa639ff8e5b0029c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Pigie/Materials/B0201@1.mat using Guid(21b6121aba08e404fa639ff8e5b0029c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278153ab085534a63482d1b2c9747ef2') in 0.187130 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.067039 seconds.
-  path: Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Clay_Wall.mat
-  artifactKey: Guid(5b5864ee942879c4298b45498959048c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Clay_Wall.mat using Guid(5b5864ee942879c4298b45498959048c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf85d91d1e0cd7e79c24a8d934051ce') in 0.061930 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000497 seconds.
-  path: Assets/External Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicDaytime.mat
-  artifactKey: Guid(52b7d70b1de7c4ce09662b77c14d9fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicDaytime.mat using Guid(52b7d70b1de7c4ce09662b77c14d9fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5bb2a0322ccf95999b893d3160de1a') in 0.096801 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000469 seconds.
-  path: Assets/External Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat
-  artifactKey: Guid(a5f2339f242f6cc41a982ec55ea3c201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat using Guid(a5f2339f242f6cc41a982ec55ea3c201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437651e109498d5cbfe0fe71f9cdfb69') in 0.087384 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000465 seconds.
-  path: Assets/External Assets/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
-  artifactKey: Guid(7350b65a6431f604a8496c39db1ac9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat using Guid(7350b65a6431f604a8496c39db1ac9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44af48cff6dd7884ffccf501f42167b4') in 0.095770 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000483 seconds.
-  path: Assets/External Assets/Standard Assets/ParticleSystems/Materials/ParticleWaterSpray.mat
-  artifactKey: Guid(09a99b10658931c46a438c586a49ec65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/ParticleSystems/Materials/ParticleWaterSpray.mat using Guid(09a99b10658931c46a438c586a49ec65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1dab892ddc952f6a18b000ae9da90ac') in 0.057331 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000433 seconds.
-  path: Assets/External Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat
-  artifactKey: Guid(30abebfd9bf1c49d8a2d26e61e66bc15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat using Guid(30abebfd9bf1c49d8a2d26e61e66bc15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81da08a78ba7327366778c698b8b7566') in 0.046109 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000698 seconds.
-  path: Assets/External Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat
-  artifactKey: Guid(f1bc741ea0e69a241896582ddb633d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat using Guid(f1bc741ea0e69a241896582ddb633d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5682cc302f4f75802080e4b3860758') in 0.036458 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000783 seconds.
-  path: Assets/External Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicNighttime.mat
-  artifactKey: Guid(c55afdc4a8a3b4890b07cc7d176510bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicNighttime.mat using Guid(c55afdc4a8a3b4890b07cc7d176510bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8250e8102cc35c2052a93143fcec8993') in 0.069819 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000551 seconds.
-  path: Assets/External Assets/AGWYN's Low Poly Magical Potions Pack/Models/Rune_Water.fbx
-  artifactKey: Guid(39a6779505006394bbdd558f79654e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/AGWYN's Low Poly Magical Potions Pack/Models/Rune_Water.fbx using Guid(39a6779505006394bbdd558f79654e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d0f89c0157a460ad609b67faff4ad13') in 0.116812 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000493 seconds.
-  path: Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Stone_Wall.mat
-  artifactKey: Guid(eaf560748e2d5d0449a30251bc3056be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Stone_Wall.mat using Guid(eaf560748e2d5d0449a30251bc3056be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8e783638565037870eccb366b46ad7') in 0.055471 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000537 seconds.
-  path: Assets/External Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Simple.mat
-  artifactKey: Guid(656fde119942645aa8e062e04c119aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Simple.mat using Guid(656fde119942645aa8e062e04c119aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2dd575334f8a0d4b228c4b3d0934abb') in 0.060062 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000494 seconds.
-  path: Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Water_Muddy.mat
-  artifactKey: Guid(a5e122a60536c4e4aa815feffacdfac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/BrokenVector/LowPolyDungeon/Materials/Water_Muddy.mat using Guid(a5e122a60536c4e4aa815feffacdfac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a1b32ffdef31d99563bbf3a3c8fbe16') in 0.057120 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000483 seconds.
-  path: Assets/External Assets/3D Items - Wand Pack/Materials/WandPack01.mat
-  artifactKey: Guid(b27fa8aa11d99d440bab56b1de24981f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/3D Items - Wand Pack/Materials/WandPack01.mat using Guid(b27fa8aa11d99d440bab56b1de24981f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d19e823f4533c60a7c7629351ec1ea8') in 0.045168 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000817 seconds.
-  path: Assets/External Assets/AGWYN's Low Poly Magical Potions Pack/Models/Wand.fbx
-  artifactKey: Guid(871cee99d4b76224cb3e579df28f6743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/External Assets/AGWYN's Low Poly Magical Potions Pack/Models/Wand.fbx using Guid(871cee99d4b76224cb3e579df28f6743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a19b62ce0375fdb6526262c5d2bab3f') in 0.094647 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 359.984495 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(29e4efe594fa798499db389f4a7c3222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e4e05c20a4d36d7020fefe33fdfa0e') in 0.037340 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000667 seconds.
-  path: Assets/Prefabs/wand_green.prefab
-  artifactKey: Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/wand_green.prefab using Guid(fee66a2b556403f4890e7a0f1ab8fbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '583d5e959248bce94120ed71e0843a15') in 0.050302 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.680169 seconds.
-  path: Assets/Scrips/Weapon.cs
-  artifactKey: Guid(cafd63051a0818742ad66125d449d5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scrips/Weapon.cs using Guid(cafd63051a0818742ad66125d449d5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cbd5bf5e8f66ceeb4ec7db82398829c') in 0.069723 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007201 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.65 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.806 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3807ms)
-		BeginReloadAssembly (380ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (14ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (130ms)
-		EndReloadAssembly (3232ms)
-			LoadAssemblies (323ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1281ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (160ms)
-			SetupLoadedEditorAssemblies (1063ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (19ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (336ms)
-				ProcessInitializeOnLoadAttributes (678ms)
-				ProcessInitializeOnLoadMethodAttributes (20ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (22ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.8 MB.
-System memory in use after: 97.6 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2278.
-Total: 10.124200 ms (FindLiveObjects: 0.477800 ms CreateObjectMapping: 0.134700 ms MarkObjects: 8.315100 ms  DeleteObjects: 1.193400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 491.558196 seconds.
-  path: Assets/Scrips/Weapon.cs
-  artifactKey: Guid(cafd63051a0818742ad66125d449d5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scrips/Weapon.cs using Guid(cafd63051a0818742ad66125d449d5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.003853 seconds  code(4) message(Build asset version error: assets/scrips/weapon.cs in SourceAssetDB has modification time of '2022-08-05T18:33:47.43575Z' while content on disk has modification time of '2022-08-05T18:37:01.2490408Z')
-  ERROR: Build asset version error: assets/scrips/weapon.cs in SourceAssetDB has modification time of '2022-08-05T18:33:47.43575Z' while content on disk has modification time of '2022-08-05T18:37:01.2490408Z'
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010003 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.081 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3082ms)
-		BeginReloadAssembly (314ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (15ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (100ms)
-		EndReloadAssembly (2549ms)
-			LoadAssemblies (308ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (898ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (130ms)
-			SetupLoadedEditorAssemblies (924ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (21ms)
 				SetLoadedEditorAssemblies (2ms)
 				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (306ms)
-				ProcessInitializeOnLoadAttributes (558ms)
-				ProcessInitializeOnLoadMethodAttributes (27ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (27ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.8 MB.
-System memory in use after: 97.6 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2281.
-Total: 7.260200 ms (FindLiveObjects: 0.316500 ms CreateObjectMapping: 0.090500 ms MarkObjects: 5.995000 ms  DeleteObjects: 0.855800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 101.067824 seconds.
-  path: Assets/Scrips/Weapon.cs
-  artifactKey: Guid(cafd63051a0818742ad66125d449d5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scrips/Weapon.cs using Guid(cafd63051a0818742ad66125d449d5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '336f394d6c625be920ac2d3e756959a5') in 0.012716 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006241 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.49 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.830 seconds
-Domain Reload Profiling:
-	ReloadAssembly (4832ms)
-		BeginReloadAssembly (551ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (17ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (149ms)
-		EndReloadAssembly (3916ms)
-			LoadAssemblies (526ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1349ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (196ms)
-			SetupLoadedEditorAssemblies (1475ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (19ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (478ms)
-				ProcessInitializeOnLoadAttributes (933ms)
-				ProcessInitializeOnLoadMethodAttributes (34ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (105ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.25 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.6 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2284.
-Total: 10.228800 ms (FindLiveObjects: 0.672800 ms CreateObjectMapping: 0.199100 ms MarkObjects: 8.530600 ms  DeleteObjects: 0.823400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.013203 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.70 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.621 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3622ms)
-		BeginReloadAssembly (254ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (17ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (72ms)
-		EndReloadAssembly (3199ms)
-			LoadAssemblies (253ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1004ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (163ms)
-			SetupLoadedEditorAssemblies (1235ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (25ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (511ms)
-				ProcessInitializeOnLoadAttributes (654ms)
-				ProcessInitializeOnLoadMethodAttributes (33ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (23ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.14 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.6 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2287.
-Total: 9.620200 ms (FindLiveObjects: 0.386300 ms CreateObjectMapping: 0.123100 ms MarkObjects: 8.267100 ms  DeleteObjects: 0.841500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005321 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.82 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.108 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3109ms)
-		BeginReloadAssembly (279ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (17ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (83ms)
-		EndReloadAssembly (2660ms)
-			LoadAssemblies (287ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1016ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (115ms)
-			SetupLoadedEditorAssemblies (944ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (17ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (305ms)
-				ProcessInitializeOnLoadAttributes (584ms)
-				ProcessInitializeOnLoadMethodAttributes (28ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (24ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.73 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.6 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2290.
-Total: 9.788200 ms (FindLiveObjects: 0.344500 ms CreateObjectMapping: 0.099600 ms MarkObjects: 8.343400 ms  DeleteObjects: 0.997700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005479 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.72 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.137 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3138ms)
-		BeginReloadAssembly (312ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (19ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (83ms)
-		EndReloadAssembly (2641ms)
-			LoadAssemblies (298ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (832ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (119ms)
-			SetupLoadedEditorAssemblies (1065ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (22ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (324ms)
-				ProcessInitializeOnLoadAttributes (676ms)
-				ProcessInitializeOnLoadMethodAttributes (33ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (22ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.6 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2293.
-Total: 8.928400 ms (FindLiveObjects: 0.482000 ms CreateObjectMapping: 0.156400 ms MarkObjects: 7.529700 ms  DeleteObjects: 0.756900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.013688 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.992 seconds
-Domain Reload Profiling:
-	ReloadAssembly (4993ms)
-		BeginReloadAssembly (482ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (19ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (128ms)
-		EndReloadAssembly (4208ms)
-			LoadAssemblies (465ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1379ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (411ms)
-			SetupLoadedEditorAssemblies (1203ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (19ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (379ms)
-				ProcessInitializeOnLoadAttributes (753ms)
-				ProcessInitializeOnLoadMethodAttributes (34ms)
-				AfterProcessingInitializeOnLoad (12ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (25ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.28 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.6 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2296.
-Total: 18.747100 ms (FindLiveObjects: 7.536100 ms CreateObjectMapping: 0.628600 ms MarkObjects: 8.940800 ms  DeleteObjects: 1.638400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005019 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.52 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.151 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3152ms)
-		BeginReloadAssembly (287ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (77ms)
-		EndReloadAssembly (2689ms)
-			LoadAssemblies (270ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (898ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (147ms)
-			SetupLoadedEditorAssemblies (1005ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (32ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (366ms)
-				ProcessInitializeOnLoadAttributes (573ms)
-				ProcessInitializeOnLoadMethodAttributes (26ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (30ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.38 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2299.
-Total: 9.569500 ms (FindLiveObjects: 0.502800 ms CreateObjectMapping: 0.285600 ms MarkObjects: 7.766900 ms  DeleteObjects: 1.010800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004631 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.41 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.259 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3260ms)
-		BeginReloadAssembly (309ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (15ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (99ms)
-		EndReloadAssembly (2783ms)
-			LoadAssemblies (257ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1039ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (125ms)
-			SetupLoadedEditorAssemblies (968ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (19ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (325ms)
-				ProcessInitializeOnLoadAttributes (583ms)
-				ProcessInitializeOnLoadMethodAttributes (32ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (29ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.97 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2302.
-Total: 9.117300 ms (FindLiveObjects: 0.412900 ms CreateObjectMapping: 0.166400 ms MarkObjects: 7.526000 ms  DeleteObjects: 1.009200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004556 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.137 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3138ms)
-		BeginReloadAssembly (284ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (14ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (85ms)
-		EndReloadAssembly (2670ms)
-			LoadAssemblies (263ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (859ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (146ms)
-			SetupLoadedEditorAssemblies (1144ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (13ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (357ms)
-				ProcessInitializeOnLoadAttributes (737ms)
-				ProcessInitializeOnLoadMethodAttributes (29ms)
+				BeforeProcessingInitializeOnLoad (244ms)
+				ProcessInitializeOnLoadAttributes (619ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (18ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.43 ms, found 2 plugins.
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.28 seconds
+Refreshing native plugins compatible for Editor in 1.85 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.7 MB.
+Unloading 1766 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.8 MB.
+System memory in use after: 98.5 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2305.
-Total: 7.230500 ms (FindLiveObjects: 0.365000 ms CreateObjectMapping: 0.097900 ms MarkObjects: 5.837900 ms  DeleteObjects: 0.927200 ms)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2231.
+Total: 6.996500 ms (FindLiveObjects: 0.364700 ms CreateObjectMapping: 0.113700 ms MarkObjects: 5.800800 ms  DeleteObjects: 0.715400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1235,701 +135,93 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.019208 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.39 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.127 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3128ms)
-		BeginReloadAssembly (358ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (18ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (80ms)
-		EndReloadAssembly (2584ms)
-			LoadAssemblies (383ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (944ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (139ms)
-			SetupLoadedEditorAssemblies (903ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (13ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (298ms)
-				ProcessInitializeOnLoadAttributes (543ms)
-				ProcessInitializeOnLoadMethodAttributes (38ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (24ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.08 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2308.
-Total: 11.411900 ms (FindLiveObjects: 1.019800 ms CreateObjectMapping: 0.443900 ms MarkObjects: 9.124200 ms  DeleteObjects: 0.821600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Received Import Request.
+  path: Assets/Prefabs/VFX/Cast VFX.prefab
+  artifactKey: Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VFX/Cast VFX.prefab using Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83e4b8c7d1c52ab09cfa835bb0fd6591') in 0.350347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.858751 seconds.
+  path: Assets/Prefabs/VFX/Cast VFX.prefab
+  artifactKey: Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VFX/Cast VFX.prefab using Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8343ea11572154b76f89ab336f22042c') in 0.038423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.389467 seconds.
+  path: Assets/Prefabs/VFX/Cast VFX.prefab
+  artifactKey: Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VFX/Cast VFX.prefab using Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bd5cb0594e16878b813dc37b59747e7') in 0.041721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.542065 seconds.
+  path: Assets/Prefabs/VFX/Cast VFX.prefab
+  artifactKey: Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VFX/Cast VFX.prefab using Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a10f0bfbfc6dc2b222fed0779ee1de1a') in 0.041016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.767117 seconds.
+  path: Assets/Prefabs/VFX/Cast VFX.prefab
+  artifactKey: Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VFX/Cast VFX.prefab using Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7101c91bfe2c4c13b0ba0ae8f8af5906') in 0.044168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.619367 seconds.
+  path: Assets/Prefabs/VFX/Cast VFX.prefab
+  artifactKey: Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VFX/Cast VFX.prefab using Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8eb57316a85dc2e82d61fee2c008784') in 0.043162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.267504 seconds.
+  path: Assets/Prefabs/VFX/Cast VFX.prefab
+  artifactKey: Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VFX/Cast VFX.prefab using Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa73549af186231892e0be0b2a79e548') in 0.042353 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005908 seconds.
+Registered in 0.006947 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.280 seconds
+- Completed reload, in  2.549 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3281ms)
-		BeginReloadAssembly (395ms)
+	ReloadAssembly (2550ms)
+		BeginReloadAssembly (262ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (12ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (94ms)
-		EndReloadAssembly (2685ms)
-			LoadAssemblies (385ms)
+			CreateAndSetChildDomain (74ms)
+		EndReloadAssembly (2131ms)
+			LoadAssemblies (245ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (910ms)
+			SetupTypeCache (773ms)
 			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (175ms)
-			SetupLoadedEditorAssemblies (1019ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (18ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (342ms)
-				ProcessInitializeOnLoadAttributes (627ms)
-				ProcessInitializeOnLoadMethodAttributes (24ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (26ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2311.
-Total: 8.209600 ms (FindLiveObjects: 0.323200 ms CreateObjectMapping: 0.090400 ms MarkObjects: 7.012800 ms  DeleteObjects: 0.781300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004537 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.56 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.178 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3180ms)
-		BeginReloadAssembly (339ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (20ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (106ms)
-		EndReloadAssembly (2633ms)
-			LoadAssemblies (307ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (843ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (136ms)
-			SetupLoadedEditorAssemblies (1030ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (17ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (336ms)
-				ProcessInitializeOnLoadAttributes (636ms)
-				ProcessInitializeOnLoadMethodAttributes (29ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (26ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.26 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2314.
-Total: 9.901500 ms (FindLiveObjects: 0.433300 ms CreateObjectMapping: 0.195500 ms MarkObjects: 8.179500 ms  DeleteObjects: 1.090400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005307 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.024 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3025ms)
-		BeginReloadAssembly (397ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (23ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (179ms)
-		EndReloadAssembly (2476ms)
-			LoadAssemblies (319ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (865ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (112ms)
-			SetupLoadedEditorAssemblies (952ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (289ms)
-				ProcessInitializeOnLoadAttributes (620ms)
-				ProcessInitializeOnLoadMethodAttributes (21ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (21ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.21 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2317.
-Total: 9.949000 ms (FindLiveObjects: 0.327700 ms CreateObjectMapping: 0.089800 ms MarkObjects: 8.635800 ms  DeleteObjects: 0.892600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005570 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.880 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2882ms)
-		BeginReloadAssembly (279ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (18ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (78ms)
-		EndReloadAssembly (2388ms)
-			LoadAssemblies (252ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (780ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (113ms)
-			SetupLoadedEditorAssemblies (969ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (18ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (331ms)
-				ProcessInitializeOnLoadAttributes (583ms)
-				ProcessInitializeOnLoadMethodAttributes (26ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (21ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2320.
-Total: 9.931800 ms (FindLiveObjects: 0.363200 ms CreateObjectMapping: 0.129500 ms MarkObjects: 8.352200 ms  DeleteObjects: 1.083400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004842 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.65 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.516 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2517ms)
-		BeginReloadAssembly (237ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (73ms)
-		EndReloadAssembly (2126ms)
-			LoadAssemblies (219ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (742ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (121ms)
-			SetupLoadedEditorAssemblies (784ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (265ms)
-				ProcessInitializeOnLoadAttributes (477ms)
-				ProcessInitializeOnLoadMethodAttributes (19ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (17ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.70 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2323.
-Total: 9.959100 ms (FindLiveObjects: 0.451300 ms CreateObjectMapping: 0.163200 ms MarkObjects: 8.294600 ms  DeleteObjects: 1.047100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005784 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.799 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2800ms)
-		BeginReloadAssembly (247ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (68ms)
-		EndReloadAssembly (2412ms)
-			LoadAssemblies (223ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (696ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (115ms)
-			SetupLoadedEditorAssemblies (1102ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (16ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (303ms)
-				ProcessInitializeOnLoadAttributes (753ms)
-				ProcessInitializeOnLoadMethodAttributes (21ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (23ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.43 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 97.9 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2326.
-Total: 7.518000 ms (FindLiveObjects: 0.316600 ms CreateObjectMapping: 0.091800 ms MarkObjects: 6.146000 ms  DeleteObjects: 0.960900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004783 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 2.10 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.598 seconds
-Domain Reload Profiling:
-	ReloadAssembly (4599ms)
-		BeginReloadAssembly (349ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (22ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (96ms)
-		EndReloadAssembly (3739ms)
-			LoadAssemblies (351ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1355ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (188ms)
-			SetupLoadedEditorAssemblies (1467ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (18ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (413ms)
-				ProcessInitializeOnLoadAttributes (811ms)
-				ProcessInitializeOnLoadMethodAttributes (211ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (31ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2329.
-Total: 7.942000 ms (FindLiveObjects: 0.404400 ms CreateObjectMapping: 0.116200 ms MarkObjects: 6.501700 ms  DeleteObjects: 0.917400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006185 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.96 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.109 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3111ms)
-		BeginReloadAssembly (294ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (17ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (85ms)
-		EndReloadAssembly (2626ms)
-			LoadAssemblies (271ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (864ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (129ms)
-			SetupLoadedEditorAssemblies (1076ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (16ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (457ms)
-				ProcessInitializeOnLoadAttributes (568ms)
-				ProcessInitializeOnLoadMethodAttributes (25ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (22ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.53 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2332.
-Total: 10.547000 ms (FindLiveObjects: 0.330700 ms CreateObjectMapping: 0.093400 ms MarkObjects: 9.346200 ms  DeleteObjects: 0.774300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004977 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.736 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2737ms)
-		BeginReloadAssembly (280ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (16ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (91ms)
-		EndReloadAssembly (2303ms)
-			LoadAssemblies (236ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (746ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (102ms)
-			SetupLoadedEditorAssemblies (968ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (285ms)
-				ProcessInitializeOnLoadAttributes (632ms)
-				ProcessInitializeOnLoadMethodAttributes (28ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (24ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.44 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2335.
-Total: 9.378700 ms (FindLiveObjects: 0.338500 ms CreateObjectMapping: 0.091700 ms MarkObjects: 8.057900 ms  DeleteObjects: 0.888300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004556 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.77 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.225 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3227ms)
-		BeginReloadAssembly (301ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (16ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (96ms)
-		EndReloadAssembly (2735ms)
-			LoadAssemblies (271ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1039ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (143ms)
-			SetupLoadedEditorAssemblies (933ms)
+			RebuildScriptCaches (107ms)
+			SetupLoadedEditorAssemblies (758ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (15ms)
-				SetLoadedEditorAssemblies (3ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (291ms)
-				ProcessInitializeOnLoadAttributes (589ms)
-				ProcessInitializeOnLoadMethodAttributes (24ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (22ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2338.
-Total: 9.340800 ms (FindLiveObjects: 0.385600 ms CreateObjectMapping: 0.097600 ms MarkObjects: 7.767100 ms  DeleteObjects: 1.087400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007474 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.31 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.011 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3012ms)
-		BeginReloadAssembly (298ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (15ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (86ms)
-		EndReloadAssembly (2516ms)
-			LoadAssemblies (312ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (826ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (130ms)
-			SetupLoadedEditorAssemblies (968ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (16ms)
-				SetLoadedEditorAssemblies (1ms)
+				SetLoadedEditorAssemblies (2ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (319ms)
-				ProcessInitializeOnLoadAttributes (595ms)
-				ProcessInitializeOnLoadMethodAttributes (29ms)
+				BeforeProcessingInitializeOnLoad (232ms)
+				ProcessInitializeOnLoadAttributes (482ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (20ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.39 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 97.7 MB.
+Unloading 1712 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.9 MB.
+System memory in use after: 96.7 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2341.
-Total: 8.029400 ms (FindLiveObjects: 0.577100 ms CreateObjectMapping: 0.127900 ms MarkObjects: 6.302400 ms  DeleteObjects: 1.019500 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2241.
+Total: 10.111000 ms (FindLiveObjects: 0.320400 ms CreateObjectMapping: 0.109200 ms MarkObjects: 9.008400 ms  DeleteObjects: 0.670200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1943,186 +235,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006091 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.57 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.061 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3062ms)
-		BeginReloadAssembly (316ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (15ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (108ms)
-		EndReloadAssembly (2574ms)
-			LoadAssemblies (280ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (845ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (110ms)
-			SetupLoadedEditorAssemblies (1003ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (19ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (301ms)
-				ProcessInitializeOnLoadAttributes (646ms)
-				ProcessInitializeOnLoadMethodAttributes (26ms)
-				AfterProcessingInitializeOnLoad (7ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (24ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.47 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2344.
-Total: 10.547800 ms (FindLiveObjects: 0.741400 ms CreateObjectMapping: 0.136800 ms MarkObjects: 8.501700 ms  DeleteObjects: 1.165000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Received Import Request.
+  Time since last request: 463.142058 seconds.
+  path: Assets/Prefabs/VFX/Cast VFX.prefab
+  artifactKey: Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VFX/Cast VFX.prefab using Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb28f0e9e017122c26fb1b4b48d8186') in 0.178863 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005838 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.69 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.299 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3300ms)
-		BeginReloadAssembly (313ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (14ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (93ms)
-		EndReloadAssembly (2789ms)
-			LoadAssemblies (297ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (916ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (119ms)
-			SetupLoadedEditorAssemblies (1181ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (17ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (360ms)
-				ProcessInitializeOnLoadAttributes (765ms)
-				ProcessInitializeOnLoadMethodAttributes (26ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (22ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.90 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2347.
-Total: 13.134200 ms (FindLiveObjects: 0.368600 ms CreateObjectMapping: 0.097700 ms MarkObjects: 11.547700 ms  DeleteObjects: 1.116400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006187 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.813 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3814ms)
-		BeginReloadAssembly (379ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (16ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (140ms)
-		EndReloadAssembly (3166ms)
-			LoadAssemblies (330ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1006ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (161ms)
-			SetupLoadedEditorAssemblies (1313ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (16ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (392ms)
-				ProcessInitializeOnLoadAttributes (862ms)
-				ProcessInitializeOnLoadMethodAttributes (33ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (27ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.42 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 97.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2350.
-Total: 11.224100 ms (FindLiveObjects: 0.445000 ms CreateObjectMapping: 0.092600 ms MarkObjects: 9.617500 ms  DeleteObjects: 1.064400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006052 seconds.
+Registered in 0.006794 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
 Native extension for WindowsStandalone target not found
@@ -2130,42 +251,113 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.084 seconds
+- Completed reload, in  2.824 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3085ms)
-		BeginReloadAssembly (307ms)
+	ReloadAssembly (2825ms)
+		BeginReloadAssembly (317ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
+			DisableScriptedObjects (14ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (80ms)
-		EndReloadAssembly (2569ms)
+			CreateAndSetChildDomain (93ms)
+		EndReloadAssembly (2334ms)
 			LoadAssemblies (284ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (907ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (132ms)
-			SetupLoadedEditorAssemblies (989ms)
+			SetupTypeCache (831ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (124ms)
+			SetupLoadedEditorAssemblies (844ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (13ms)
-				SetLoadedEditorAssemblies (1ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (2ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (285ms)
-				ProcessInitializeOnLoadAttributes (635ms)
-				ProcessInitializeOnLoadMethodAttributes (47ms)
-				AfterProcessingInitializeOnLoad (6ms)
+				BeforeProcessingInitializeOnLoad (229ms)
+				ProcessInitializeOnLoadAttributes (566ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (22ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1711 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.0 MB.
-System memory in use after: 97.7 MB.
+Unloading 1712 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.0 MB.
+System memory in use after: 96.7 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2353.
-Total: 7.852400 ms (FindLiveObjects: 0.456800 ms CreateObjectMapping: 0.119900 ms MarkObjects: 6.443200 ms  DeleteObjects: 0.828800 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2245.
+Total: 7.859800 ms (FindLiveObjects: 0.345600 ms CreateObjectMapping: 0.119300 ms MarkObjects: 6.751300 ms  DeleteObjects: 0.641200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 47.803041 seconds.
+  path: Assets/Prefabs/VFX/Cast VFX.prefab
+  artifactKey: Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VFX/Cast VFX.prefab using Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6bd55bf7c9cb4101b2221bd2eb32f18') in 0.165016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.581268 seconds.
+  path: Assets/Prefabs/VFX/Cast VFX.prefab
+  artifactKey: Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/VFX/Cast VFX.prefab using Guid(7e1a05bbbc5406f4ab92f63f2e3b8542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08224bd0b50b77e812fa51a53da56210') in 0.030427 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005892 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.780 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2781ms)
+		BeginReloadAssembly (242ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (66ms)
+		EndReloadAssembly (2386ms)
+			LoadAssemblies (231ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (975ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (100ms)
+			SetupLoadedEditorAssemblies (807ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (234ms)
+				ProcessInitializeOnLoadAttributes (526ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1712 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.0 MB.
+System memory in use after: 96.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2249.
+Total: 7.349200 ms (FindLiveObjects: 0.376800 ms CreateObjectMapping: 0.130400 ms MarkObjects: 6.068300 ms  DeleteObjects: 0.771400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 

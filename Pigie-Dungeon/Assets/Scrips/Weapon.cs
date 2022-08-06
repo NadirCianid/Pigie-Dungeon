@@ -9,6 +9,7 @@ public class Weapon : MonoBehaviour
     [SerializeField] ParticleSystem castingVFX;
     [SerializeField] float raycastRange = 100f;
     [SerializeField] float damage = 10f;
+    public float GetDamage{ get{ return damage; } }
 
 
     void Update()
@@ -23,7 +24,7 @@ public class Weapon : MonoBehaviour
 
     private void Cast()
     {
-        RaycastProccessing();
+        //RaycastProccessing();
         CastingVFX();
     }
 
