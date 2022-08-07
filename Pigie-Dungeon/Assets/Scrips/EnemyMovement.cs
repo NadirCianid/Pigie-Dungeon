@@ -6,17 +6,22 @@ using UnityEngine.AI;
 
 public class EnemyMovement : MonoBehaviour
 {
-    [SerializeField] Transform target;
     [SerializeField] float chaseRangeRadius;
     [SerializeField] float stoppingDistance;
+    [SerializeField] float rotationSpeed = 5f;
     NavMeshAgent navMeshAgent;
+    Animator animator;
+    PlayerHealth target;
+
     bool isAggress = false;
     float distanceToTarget = Mathf.Infinity;
-
+    
 
     void Awake()
     {
         navMeshAgent = GetComponent<NavMeshAgent>();
+        animator = GetComponent<Animator>();
+        target = FindObjectOfType<PlayerHealth>();
     }
 
     void OnDrawGizmosSelected()
@@ -30,7 +35,7 @@ public class EnemyMovement : MonoBehaviour
 
     void Update()
     {
-        distanceToTarget = Vector3.Distance(transform.position, target.position);
+        distanceToTarget = Vector3.Distance(transform.position, target.transform.position);
 
         if(isAggress)
         {
@@ -40,10 +45,12 @@ public class EnemyMovement : MonoBehaviour
         {
             isAggress = true;
         }
+        
     }
 
     private void EngageTarget()
     {
+        FaceTarget();
         if(distanceToTarget <= navMeshAgent.stoppingDistance)
         {
             Attack();
@@ -56,11 +63,19 @@ public class EnemyMovement : MonoBehaviour
 
     private void Attack()
     {
-        Debug.Log("Attack");
+        animator.SetTrigger("Attack");
     }
 
     private void ChaseTarget()
     {
-        navMeshAgent.SetDestination(target.position);
+        navMeshAgent.SetDestination(target.transform.position);
+        animator.SetTrigger("Move");
+    }
+
+    void FaceTarget()
+    {
+        Vector3 direction = (transform.position - target.transform.position).normalized;
+        Quaternion lookRotation = Quaternion.LookRotation(new Vector3(direction.x, 0, direction.z));
+        transform.rotation = Quaternion.RotateTowards(transform.rotation, lookRotation, rotationSpeed);
     }
 }

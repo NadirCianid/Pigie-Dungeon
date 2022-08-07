@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scrips\EnemyHealth.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\PlatformSpecificContent.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+     <Compile Include="Assets\Scrips\Cast.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
@@ -146,7 +147,8 @@
      <Compile Include="Assets\External Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\FPSCounter.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\SimpleActivatorMenu.cs" />
-     <Compile Include="Assets\Scrips\Cast.cs" />
+     <Compile Include="Assets\Scrips\EnemyAttack.cs" />
+     <Compile Include="Assets\Scrips\PlayerHealth.cs" />
      <None Include="Assets\External Assets\Earth_Mage\README.txt" />
      <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\StdLib.hlsl" />
      <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\Debug\Waveform.shader" />

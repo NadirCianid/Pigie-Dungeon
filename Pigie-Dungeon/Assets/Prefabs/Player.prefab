@@ -202,6 +202,7 @@ GameObject:
   - component: {fileID: 1995884332547437062}
   - component: {fileID: 1995884332555592838}
   - component: {fileID: 1995884332552625670}
+  - component: {fileID: 1587564500}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -479,6 +480,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
+--- !u!114 &1587564500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995884332558682086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a53c2027df9ce45b2ff0bda989fb82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitPointsAmmount: 100
 --- !u!1001 &4569397746510585555
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -537,6 +551,22 @@ PrefabInstance:
     - target: {fileID: 2655730920987281202, guid: fee66a2b556403f4890e7a0f1ab8fbfb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 144.82199
+      objectReference: {fileID: 0}
+    - target: {fileID: 6500716555438296109, guid: fee66a2b556403f4890e7a0f1ab8fbfb, type: 3}
+      propertyPath: ShapeModule.radius.value
+      value: 0.0001
+      objectReference: {fileID: 0}
+    - target: {fileID: 6500716555438296109, guid: fee66a2b556403f4890e7a0f1ab8fbfb, type: 3}
+      propertyPath: CollisionModule.minKillSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6500716555438296109, guid: fee66a2b556403f4890e7a0f1ab8fbfb, type: 3}
+      propertyPath: CollisionModule.m_Dampen.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6500716555438296109, guid: fee66a2b556403f4890e7a0f1ab8fbfb, type: 3}
+      propertyPath: CollisionModule.m_EnergyLossOnCollision.scalar
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fee66a2b556403f4890e7a0f1ab8fbfb, type: 3}

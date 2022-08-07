@@ -13,7 +13,9 @@ public class Cast : MonoBehaviour
 
         for(int i=0; i <= 0 ; i++)
         {
-        Instantiate(castSplash, collisionEvents[i].intersection, Quaternion.LookRotation(collisionEvents[i].normal));
+            GameObject splash = Instantiate(castSplash, collisionEvents[i].intersection,
+                                    Quaternion.LookRotation(collisionEvents[i].normal));
+            Destroy(splash, 1);
         }
         EnemyHealth target = other.transform.GetComponent<EnemyHealth>();
     
