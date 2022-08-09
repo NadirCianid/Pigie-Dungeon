@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3702354658577096820}
   - component: {fileID: 853508948501959495}
   m_Layer: 0
-  m_Name: Cast VFX
+  m_Name: Cast VFX (purple)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4858,7 +4858,7 @@ ParticleSystemRenderer:
   m_FreeformStretching: 0
   m_RotateWithStretchDirection: 1
   m_VertexStreams: 00010304
-  m_Mesh: {fileID: 4300122, guid: 7374575f12d49ba459e91009f7a9ec62, type: 3}
+  m_Mesh: {fileID: 4300184, guid: 7374575f12d49ba459e91009f7a9ec62, type: 3}
   m_Mesh1: {fileID: 0}
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
