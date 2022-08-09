@@ -15,6 +15,7 @@ public class EnemyHealth : MonoBehaviour
 
     public void TakeDamage(float amountOfDecreasing)
     {
+        BroadcastMessage("ProcessDamage");
         hitPoints -= amountOfDecreasing;
         if(hitPoints <= 0)
         {
