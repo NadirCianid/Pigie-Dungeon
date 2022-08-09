@@ -1,1 +1,4 @@
 Pigie-Dungeon/Library/
+Pigie-Dungeon/Temp/
+Pigie-Dungeon/Logs/
+*.log
