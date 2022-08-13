@@ -6,33 +6,42 @@ using UnityEngine;
 public class Wand : MonoBehaviour
 { 
     [SerializeField] ParticleSystem castingVFX;
-    [SerializeField] ManaPool manaPool;
-    [SerializeField] int manaCost;
-    
+    [SerializeField] Orbs orbsPool;
+    [SerializeField] OrbType orbType;
+    [SerializeField] float castDelay;
     [SerializeField] float damage = 10f;
     public float GetDamage{ get{ return damage; } }
+    bool isCasting = false; 
     WandAim wandAim;
+    
 
     void Awake() 
     {
         wandAim = GetComponentInParent<WandAim>();
     }
 
+    private void OnEnable() 
+    {
+        isCasting = false;
+    }
 
     void Update()
     {
         transform.rotation = wandAim.RaycastProccessing(transform);
 
-        if(Input.GetButtonDown("Fire1") && manaPool.GetManaPoints >= manaCost )
+        if(Input.GetButtonDown("Fire1") && orbsPool.GetOrbsAmmount(orbType) > 0 && !isCasting)
         {
-            Cast();
+            StartCoroutine(Cast());
         }
     }
 
-    private void Cast()
+    private IEnumerator Cast()
     {
-        manaPool.UseMana(manaCost);
+        isCasting = true;
+        orbsPool.UseOrb(orbType);
         CastingVFX();
+        yield return new WaitForSecondsRealtime(castDelay);
+        isCasting = false;
     }
 
     private void CastingVFX()

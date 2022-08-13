@@ -43,6 +43,7 @@
      <Compile Include="Assets\External Assets\Standard Assets\Vehicles\Car\Scripts\Mudguard.cs" />
      <Compile Include="Assets\External Assets\Mixamo\Magic Pack\Demo\CameraScroll.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\ParticleSystems\Scripts\Explosive.cs" />
+     <Compile Include="Assets\Scrips\WandAim.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Cameras\Scripts\TargetFieldOfView.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\DynamicShadowSettings.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\SimpleMouseRotator.cs" />
@@ -150,8 +151,9 @@
      <Compile Include="Assets\External Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\FPSCounter.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\SimpleActivatorMenu.cs" />
-     <Compile Include="Assets\Scrips\ManaPool.cs" />
-     <Compile Include="Assets\Scrips\WandAim.cs" />
+     <Compile Include="Assets\Scrips\WandSwitcher.cs" />
+     <Compile Include="Assets\Scrips\OrbType.cs" />
+     <Compile Include="Assets\Scrips\Orbs.cs" />
      <None Include="Assets\External Assets\Earth_Mage\README.txt" />
      <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\StdLib.hlsl" />
      <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\Debug\Waveform.shader" />

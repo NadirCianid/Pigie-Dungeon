@@ -128,8 +128,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   castingVFX: {fileID: 6257476108569782164}
   manaPool: {fileID: 0}
-  manaCost: 1
-  damage: 10
+  manaCost: 20
+  castDelay: 2
+  damage: 50
 --- !u!1001 &9030666652757270579
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -45,9 +45,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   castingVFX: {fileID: 7816590448713326306}
-  manaPool: {fileID: 0}
-  manaCost: 1
-  damage: 10
+  orbsPool: {fileID: 0}
+  orbType: 1
+  castDelay: 5
+  damage: 200
 --- !u!1 &7939525801408573889
 GameObject:
   m_ObjectHideFlags: 0

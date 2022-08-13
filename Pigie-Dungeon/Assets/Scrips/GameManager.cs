@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
     {
         gameOverScreen.SetActive(true);
         reticle.SetActive(false);
-
+        FindObjectOfType<WandSwitcher>().enabled = false;
         Time.timeScale = 0;
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;

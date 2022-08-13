@@ -258,6 +258,24 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 82096aab38f01cb40a1cbf8629a810ba, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4620f3c93dca8c94c9124d8ba443f43e, type: 3}
+--- !u!1 &68076800 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7415668735448468176, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+  m_PrefabInstance: {fileID: 1995884331735978260}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &68076802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 68076800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95f3ce9b8fbe2024fa20b7f78caf4c2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chosenWand: 0
 --- !u!1001 &134685938
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1278,6 +1296,34 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 2b127815fd0f2074eae3a0c6a4786d0b, type: 3}
   m_PrefabInstance: {fileID: 1849973678}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &670658789 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1995884332558682086, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+  m_PrefabInstance: {fileID: 1995884331735978260}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &670658790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 670658789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bbc08811d583ed45b10f0b9a8ceaefe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orbSlots:
+  - orbType: 0
+    orbsAmmount: 3
+  - orbType: 4
+    orbsAmmount: 3
+  - orbType: 3
+    orbsAmmount: 10
+  - orbType: 2
+    orbsAmmount: 3
+  - orbType: 1
+    orbsAmmount: 1
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -3492,6 +3538,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 608365644115238802, guid: e36f4e2bcab4e1b4e84035307b429f41, type: 3}
+      propertyPath: stoppingDistance
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 608365644115238812, guid: e36f4e2bcab4e1b4e84035307b429f41, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -3545,6 +3595,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 714305498075294579, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: manaPoints
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 1394344720674818875, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: orbsPool
+      value: 
+      objectReference: {fileID: 670658790}
     - target: {fileID: 1995884332558457798, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -3593,6 +3651,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 2325566094073831339, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: orbsPool
+      value: 
+      objectReference: {fileID: 670658790}
+    - target: {fileID: 2416503833268802510, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: orbsPool
+      value: 
+      objectReference: {fileID: 670658790}
+    - target: {fileID: 2416503833268802510, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: castDelay
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3646140595513134887, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -3601,6 +3671,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4785050087565493319, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: orbsPool
+      value: 
+      objectReference: {fileID: 670658790}
+    - target: {fileID: 5518357675598761159, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
+      propertyPath: orbsPool
+      value: 
+      objectReference: {fileID: 670658790}
     - target: {fileID: 5816480510033827019, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -3613,5 +3691,6 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 714305498075294579, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 29e4efe594fa798499db389f4a7c3222, type: 3}
