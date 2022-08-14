@@ -34,4 +34,9 @@ public class Orbs : MonoBehaviour
     {
         GetOrbSlot(orbType).orbsAmmount--;
     }
+
+    public void IncreaseOrbAmmount(OrbType orbType, int orbAmmount)
+    {
+        GetOrbSlot(orbType).orbsAmmount+= orbAmmount;
+    }
 }

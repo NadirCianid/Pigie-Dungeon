@@ -203,7 +203,7 @@ GameObject:
   - component: {fileID: 1995884332555592838}
   - component: {fileID: 1995884332552625670}
   - component: {fileID: 1587564500}
-  - component: {fileID: 714305498075294579}
+  - component: {fileID: 670658790}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -494,7 +494,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitPointsAmmount: 100
---- !u!114 &714305498075294579
+--- !u!114 &670658790
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -503,10 +503,20 @@ MonoBehaviour:
   m_GameObject: {fileID: 1995884332558682086}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f750c20a49ca74e46aa9ed046f1fd915, type: 3}
+  m_Script: {fileID: 11500000, guid: 8bbc08811d583ed45b10f0b9a8ceaefe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  manaPoints: 20
+  orbSlots:
+  - orbType: 0
+    orbsAmmount: 3
+  - orbType: 4
+    orbsAmmount: 3
+  - orbType: 3
+    orbsAmmount: 10
+  - orbType: 2
+    orbsAmmount: 3
+  - orbType: 1
+    orbsAmmount: 1
 --- !u!1 &7415668735448468176
 GameObject:
   m_ObjectHideFlags: 0
@@ -517,6 +527,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7534770609351243029}
   - component: {fileID: 8118560773422087190}
+  - component: {fileID: 68076802}
   m_Layer: 0
   m_Name: Wands
   m_TagString: Untagged
@@ -557,6 +568,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FPcamera: {fileID: 1995884332559009222}
   raycastRange: 100
+--- !u!114 &68076802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7415668735448468176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95f3ce9b8fbe2024fa20b7f78caf4c2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chosenWand: 0
 --- !u!1001 &1908955998500636771
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -565,9 +589,9 @@ PrefabInstance:
     m_TransformParent: {fileID: 7534770609351243029}
     m_Modifications:
     - target: {fileID: 4320320054997556141, guid: f6b09cc6ca25d1f4bb4e288467f95863, type: 3}
-      propertyPath: manaPool
+      propertyPath: orbsPool
       value: 
-      objectReference: {fileID: 714305498075294579}
+      objectReference: {fileID: 670658790}
     - target: {fileID: 5407279495245336781, guid: f6b09cc6ca25d1f4bb4e288467f95863, type: 3}
       propertyPath: m_Name
       value: Emerald Wand
@@ -633,7 +657,11 @@ PrefabInstance:
     - target: {fileID: 4320320054997556141, guid: 1d94d4135bd1f8747ae12c7aa1203803, type: 3}
       propertyPath: manaPool
       value: 
-      objectReference: {fileID: 714305498075294579}
+      objectReference: {fileID: 0}
+    - target: {fileID: 4320320054997556141, guid: 1d94d4135bd1f8747ae12c7aa1203803, type: 3}
+      propertyPath: orbsPool
+      value: 
+      objectReference: {fileID: 670658790}
     - target: {fileID: 5407279495245336781, guid: 1d94d4135bd1f8747ae12c7aa1203803, type: 3}
       propertyPath: m_Name
       value: Amber Wand
@@ -703,7 +731,11 @@ PrefabInstance:
     - target: {fileID: 4320320054997556141, guid: 1a0c784365320594986eef15bfd36539, type: 3}
       propertyPath: manaPool
       value: 
-      objectReference: {fileID: 714305498075294579}
+      objectReference: {fileID: 0}
+    - target: {fileID: 4320320054997556141, guid: 1a0c784365320594986eef15bfd36539, type: 3}
+      propertyPath: orbsPool
+      value: 
+      objectReference: {fileID: 670658790}
     - target: {fileID: 5407279495245336781, guid: 1a0c784365320594986eef15bfd36539, type: 3}
       propertyPath: m_Name
       value: Lapis Lazuli Wand
@@ -817,7 +849,11 @@ PrefabInstance:
     - target: {fileID: 4320320054997556141, guid: c4b062e7943f4424680b2fd43202f58a, type: 3}
       propertyPath: manaPool
       value: 
-      objectReference: {fileID: 714305498075294579}
+      objectReference: {fileID: 0}
+    - target: {fileID: 4320320054997556141, guid: c4b062e7943f4424680b2fd43202f58a, type: 3}
+      propertyPath: orbsPool
+      value: 
+      objectReference: {fileID: 670658790}
     - target: {fileID: 5407279495245336781, guid: c4b062e7943f4424680b2fd43202f58a, type: 3}
       propertyPath: m_Name
       value: Ruby Wand
@@ -887,7 +923,11 @@ PrefabInstance:
     - target: {fileID: 4320320054997556141, guid: a2e3a4bb82f621449855c644b41cee90, type: 3}
       propertyPath: manaPool
       value: 
-      objectReference: {fileID: 714305498075294579}
+      objectReference: {fileID: 0}
+    - target: {fileID: 4320320054997556141, guid: a2e3a4bb82f621449855c644b41cee90, type: 3}
+      propertyPath: orbsPool
+      value: 
+      objectReference: {fileID: 670658790}
     - target: {fileID: 5407279495245336781, guid: a2e3a4bb82f621449855c644b41cee90, type: 3}
       propertyPath: m_Name
       value: Amhetyst Wand

@@ -72,6 +72,7 @@
      <Compile Include="Assets\External Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneController.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\ParticleSystems\Scripts\ExplosionPhysicsForce.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />
+     <Compile Include="Assets\Scrips\OrbType.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\TimedObjectActivator.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Vehicles\Car\Scripts\BrakeLight.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Vehicles\Aircraft\Scripts\JetParticleEffect.cs" />
@@ -86,6 +87,7 @@
      <Compile Include="Assets\External Assets\Standard Assets\Characters\RollerBall\Scripts\Ball.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\ParticleSystems\Scripts\SmokeParticles.cs" />
+     <Compile Include="Assets\Scrips\WandSwitcher.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
      <Compile Include="Assets\Scrips\EnemyAI.cs" />
@@ -139,6 +141,7 @@
      <Compile Include="Assets\External Assets\BrokenVector\LowPolyDungeon\Demo Scenes\PlayerMovement.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\ActivateTrigger.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
+     <Compile Include="Assets\Scrips\Orbs.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
@@ -151,9 +154,7 @@
      <Compile Include="Assets\External Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\FPSCounter.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\SimpleActivatorMenu.cs" />
-     <Compile Include="Assets\Scrips\WandSwitcher.cs" />
-     <Compile Include="Assets\Scrips\OrbType.cs" />
-     <Compile Include="Assets\Scrips\Orbs.cs" />
+     <Compile Include="Assets\Scrips\OrbPickup.cs" />
      <None Include="Assets\External Assets\Earth_Mage\README.txt" />
      <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\StdLib.hlsl" />
      <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\Debug\Waveform.shader" />
