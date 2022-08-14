@@ -1,0 +1,3814 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &328767142818297415
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325846913543583157}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone009
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325846913543583157
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328767142818297415}
+  m_LocalRotation: {x: 0.0000000031650604, y: -0.19607243, z: 0.000000015828698, w: 0.98058945}
+  m_LocalPosition: {x: -25.527634, y: -12.681091, z: -10.930298}
+  m_LocalScale: {x: 0.99999964, y: 0.9999998, z: 0.99999976}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328783853533870847
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325706237371719779}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325706237371719779
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328783853533870847}
+  m_LocalRotation: {x: -0.0000004493087, y: -0.19763565, z: 0.00000014408107, w: 0.9802756}
+  m_LocalPosition: {x: -17.92302, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999315, y: 1, z: 1.0000082}
+  m_Children:
+  - {fileID: 331694689730256247}
+  m_Father: {fileID: 325664298330980725}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328786483601297799
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325504946140271023}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325504946140271023
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328786483601297799}
+  m_LocalRotation: {x: -0.0000011460091, y: -0.000000023769593, z: 0.47335532, w: 0.8808716}
+  m_LocalPosition: {x: -14.856369, y: 0, z: -0.0000076293945}
+  m_LocalScale: {x: 1.0000172, y: 0.9999912, z: 0.999992}
+  m_Children:
+  - {fileID: 331837106356704279}
+  m_Father: {fileID: 331891807517068045}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328794522258550683
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325675753306699281}
+  m_Layer: 0
+  m_Name: cave_troll_RLegDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325675753306699281
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328794522258550683}
+  m_LocalRotation: {x: -0.00010520518, y: 0.00037861845, z: -0.22766145, w: 0.9737403}
+  m_LocalPosition: {x: -51.606155, y: 10.396643, z: 0.49313354}
+  m_LocalScale: {x: 1.0000023, y: 0.99999714, z: 1.0000001}
+  m_Children:
+  - {fileID: 331896648672063141}
+  m_Father: {fileID: 325544408508140701}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328797219065598867
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325433262377279411}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone007
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325433262377279411
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328797219065598867}
+  m_LocalRotation: {x: 0.06850543, y: 0.068140745, z: 0.160936, w: 0.98222375}
+  m_LocalPosition: {x: -24.17892, y: -7.4504395, z: 7.0679903}
+  m_LocalScale: {x: 1.0000001, y: 0.9999996, z: 1.0000005}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328809707982890369
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331906795315613549}
+  m_Layer: 0
+  m_Name: cave_troll_Hub002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331906795315613549
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328809707982890369}
+  m_LocalRotation: {x: -0.01025701, y: 0.021523766, z: -0.088728294, w: 0.99577045}
+  m_LocalPosition: {x: -40.149353, y: 0.0000019073486, z: 0.0000009536743}
+  m_LocalScale: {x: 1.0000002, y: 0.99999994, z: 0.99999964}
+  m_Children:
+  - {fileID: 325606668873940137}
+  - {fileID: 325818366469557739}
+  - {fileID: 331989682534569019}
+  m_Father: {fileID: 325577693498959741}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328818437187878503
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325822936690670289}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone012
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325822936690670289
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328818437187878503}
+  m_LocalRotation: {x: 0.0000000022108646, y: -0.10700331, z: 0.00000002271844, w: 0.9942587}
+  m_LocalPosition: {x: -18.986881, y: 8.993408, z: -9.069979}
+  m_LocalScale: {x: 1.0000005, y: 0.9999998, z: 1.0000006}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328849602229476297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325544408508140701}
+  m_Layer: 0
+  m_Name: cave_troll_RLegAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325544408508140701
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328849602229476297}
+  m_LocalRotation: {x: 0.07628531, y: -0.10488255, z: -0.65028024, w: 0.74854255}
+  m_LocalPosition: {x: -77.296104, y: -0.0000038146973, z: 0}
+  m_LocalScale: {x: 1.0000132, y: 0.99998677, z: 1.0000007}
+  m_Children:
+  - {fileID: 331884142195830539}
+  - {fileID: 332115464241821937}
+  - {fileID: 325675753306699281}
+  - {fileID: 331878551217832267}
+  m_Father: {fileID: 331585988413478083}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328868155273253699
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325610677892007079}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone016
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325610677892007079
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328868155273253699}
+  m_LocalRotation: {x: -0.000000003659681, y: 0.1960723, z: 0.000000015927986, w: 0.98058945}
+  m_LocalPosition: {x: -25.527645, y: -12.681061, z: 10.9303}
+  m_LocalScale: {x: 0.9999996, y: 0.9999998, z: 0.9999997}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328868382413518305
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325550356346526257}
+  m_Layer: 0
+  m_Name: cave_troll_Hub001Bone001Bone002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325550356346526257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328868382413518305}
+  m_LocalRotation: {x: -0.0000000029964269, y: 0.00000004462858, z: 0.033193476, w: 0.99944896}
+  m_LocalPosition: {x: -32.992508, y: -0.0000019073486, z: 0.0000009536743}
+  m_LocalScale: {x: 0.9999994, y: 1.0000004, z: 1}
+  m_Children:
+  - {fileID: 325909858950596759}
+  m_Father: {fileID: 325818056611985543}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328870140731645101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331619395740137755}
+  m_Layer: 0
+  m_Name: cave_troll_LArm22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331619395740137755
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328870140731645101}
+  m_LocalRotation: {x: -0.10516371, y: -0.0000000015669955, z: 0.000000014818709, w: 0.9944549}
+  m_LocalPosition: {x: -32.656403, y: 0.0000076293945, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 325867206159152467}
+  m_Father: {fileID: 332013841239450369}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328876949977337045
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331775364435413325}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone011
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331775364435413325
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328876949977337045}
+  m_LocalRotation: {x: 0.0000000022108646, y: -0.10700331, z: 0.00000002271844, w: 0.9942587}
+  m_LocalPosition: {x: -25.724762, y: 5.4952087, z: -6.4539785}
+  m_LocalScale: {x: 1.0000005, y: 0.9999998, z: 1.0000006}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328885573491626143
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332091426458656031}
+  m_Layer: 0
+  m_Name: cave_troll_Hub001Bone001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332091426458656031
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328885573491626143}
+  m_LocalRotation: {x: -0.00087704626, y: 0.000026028916, z: 0.99955946, w: 0.029666979}
+  m_LocalPosition: {x: 4.62677, y: 46.067207, z: 0.0000009536743}
+  m_LocalScale: {x: 0.9999997, y: 0.9999997, z: 0.99999994}
+  m_Children:
+  - {fileID: 332018485106443885}
+  m_Father: {fileID: 325831307707967653}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328892095213715961
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332025617782069395}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003_dnu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332025617782069395
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328892095213715961}
+  m_LocalRotation: {x: 0.0060101734, y: 0.093872815, z: 0.48032227, w: 0.8720335}
+  m_LocalPosition: {x: -35.653732, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000012, y: 0.9999994, z: 1.0000005}
+  m_Children:
+  - {fileID: 331913515583935601}
+  m_Father: {fileID: 325809785111430519}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328908232511963033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332013841239450369}
+  m_Layer: 0
+  m_Name: ' 1'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332013841239450369
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328908232511963033}
+  m_LocalRotation: {x: -0.0066034314, y: -0.08114759, z: 0.020405384, w: 0.99647135}
+  m_LocalPosition: {x: -59.113327, y: 0, z: 0.000015258789}
+  m_LocalScale: {x: 1.0000026, y: 0.9999992, z: 0.99999946}
+  m_Children:
+  - {fileID: 331619395740137755}
+  m_Father: {fileID: 331685446361071653}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328937359665094957
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332018485106443885}
+  m_Layer: 0
+  m_Name: cave_troll_Hub001Bone001Bone001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332018485106443885
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328937359665094957}
+  m_LocalRotation: {x: 0.0000000031049334, y: 0.0000000112195595, z: 0.013818315, w: 0.9999045}
+  m_LocalPosition: {x: -25.269989, y: 0.0000038146973, z: -0.0000009536743}
+  m_LocalScale: {x: 1.0000005, y: 1.0000004, z: 1}
+  m_Children:
+  - {fileID: 331691464726168975}
+  m_Father: {fileID: 332091426458656031}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328944031398323139
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332115464241821937}
+  m_Layer: 0
+  m_Name: cave_troll_RLegDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332115464241821937
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328944031398323139}
+  m_LocalRotation: {x: -0.04404661, y: -0.14346656, z: -0.28868836, w: 0.9455878}
+  m_LocalPosition: {x: -50.867928, y: 6.557724, z: -20.085236}
+  m_LocalScale: {x: 1.0000018, y: 0.99999547, z: 1.0000008}
+  m_Children:
+  - {fileID: 331852568845740117}
+  m_Father: {fileID: 325544408508140701}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328950112290476369
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325451841535760021}
+  - component: {fileID: 392824497986797505}
+  m_Layer: 0
+  m_Name: troll_body_low
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325451841535760021
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328950112290476369}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_Children: []
+  m_Father: {fileID: 325909424840483719}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &392824497986797505
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328950112290476369}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 791fa1a3bfdff164abe3c69d9129f1ce, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300002, guid: 34bf333920b9886469ea633c17e22d4d, type: 3}
+  m_Bones:
+  - {fileID: 325809785111430519}
+  - {fileID: 331989682534569019}
+  - {fileID: 331913515583935601}
+  - {fileID: 332128016014177541}
+  - {fileID: 325818366469557739}
+  - {fileID: 331906795315613549}
+  - {fileID: 325820253904721443}
+  - {fileID: 325577693498959741}
+  - {fileID: 332056373523589181}
+  - {fileID: 331927552198122467}
+  - {fileID: 325822936690670289}
+  - {fileID: 325524065300261059}
+  - {fileID: 325831307707967653}
+  - {fileID: 331867038711652171}
+  - {fileID: 332075908114206283}
+  - {fileID: 331985995270365953}
+  - {fileID: 325579724919031243}
+  - {fileID: 325386825694639255}
+  - {fileID: 331585988413478083}
+  - {fileID: 325544408508140701}
+  - {fileID: 331884142195830539}
+  - {fileID: 325675753306699281}
+  - {fileID: 332115464241821937}
+  - {fileID: 331577563121468581}
+  - {fileID: 325835456569377205}
+  - {fileID: 331778389826677321}
+  - {fileID: 331775364435413325}
+  - {fileID: 331648060131218309}
+  - {fileID: 332014548817535337}
+  - {fileID: 332041178213077425}
+  - {fileID: 332133897321416753}
+  - {fileID: 325846913543583157}
+  - {fileID: 325430042493539237}
+  - {fileID: 325408537053551337}
+  - {fileID: 325610677892007079}
+  - {fileID: 325877093613342075}
+  - {fileID: 325433262377279411}
+  - {fileID: 325501492920487129}
+  - {fileID: 325606668873940137}
+  - {fileID: 331685446361071653}
+  - {fileID: 332013841239450369}
+  - {fileID: 331619395740137755}
+  - {fileID: 325867206159152467}
+  - {fileID: 325664298330980725}
+  - {fileID: 331940219643875141}
+  - {fileID: 325417256918369053}
+  - {fileID: 325388896497141889}
+  - {fileID: 325632777562943213}
+  - {fileID: 332012378393554519}
+  - {fileID: 325902498188784863}
+  - {fileID: 325722571944925897}
+  - {fileID: 331838739750205073}
+  - {fileID: 325669946518017737}
+  - {fileID: 331796739479684103}
+  - {fileID: 331917709142628619}
+  - {fileID: 325477458812297047}
+  - {fileID: 332118575100642505}
+  - {fileID: 331935649356652245}
+  - {fileID: 331974610090551199}
+  - {fileID: 331639133409266267}
+  - {fileID: 325706237371719779}
+  - {fileID: 331694689730256247}
+  - {fileID: 325485583755885949}
+  - {fileID: 331669655044624853}
+  - {fileID: 331687014321884259}
+  - {fileID: 325482489828529559}
+  - {fileID: 331891807517068045}
+  - {fileID: 331837106356704279}
+  - {fileID: 325504946140271023}
+  - {fileID: 331877593963164125}
+  - {fileID: 331815677493150449}
+  - {fileID: 332085422435796211}
+  - {fileID: 325504778145490135}
+  - {fileID: 331878551217832267}
+  - {fileID: 331896648672063141}
+  - {fileID: 331852568845740117}
+  - {fileID: 332118347276569109}
+  - {fileID: 325917400688669255}
+  - {fileID: 325660109595947377}
+  - {fileID: 325391299169921579}
+  - {fileID: 325692781650335481}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 325831307707967653}
+  m_AABB:
+    m_Center: {x: 4.8185654, y: -16.3647, z: 6.0642242}
+    m_Extent: {x: 228.76251, y: 123.81604, z: 150.13309}
+  m_DirtyAABB: 0
+--- !u!1 &328955022396839079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325386825694639255}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325386825694639255
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328955022396839079}
+  m_LocalRotation: {x: -0.1238263, y: -0.32700917, z: 0.24095972, w: 0.9053566}
+  m_LocalPosition: {x: -13.720947, y: -7.7312317, z: -14.405312}
+  m_LocalScale: {x: 1.0000135, y: 0.9999975, z: 0.9999892}
+  m_Children:
+  - {fileID: 332085422435796211}
+  m_Father: {fileID: 331985995270365953}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328960005445317425
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331917709142628619}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331917709142628619
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328960005445317425}
+  m_LocalRotation: {x: -0.3073825, y: -0.3304839, z: 0.1515666, w: 0.8793884}
+  m_LocalPosition: {x: -33.330315, y: 0.22731018, z: -22.45678}
+  m_LocalScale: {x: 1.0000147, y: 0.99999094, z: 0.9999949}
+  m_Children:
+  - {fileID: 331639133409266267}
+  m_Father: {fileID: 325867206159152467}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328990405348430397
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331639133409266267}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331639133409266267
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328990405348430397}
+  m_LocalRotation: {x: -0.0000005252678, y: -0.00000029009104, z: 0.2755726, w: 0.9612803}
+  m_LocalPosition: {x: -15.108803, y: 0.000015258789, z: 0}
+  m_LocalScale: {x: 1.0000087, y: 0.9999988, z: 0.9999932}
+  m_Children:
+  - {fileID: 331974610090551199}
+  m_Father: {fileID: 331917709142628619}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &328992464687690111
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325560451840717419}
+  - component: {fileID: 395268880092360395}
+  m_Layer: 0
+  m_Name: eyes_low
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325560451840717419
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328992464687690111}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_Children: []
+  m_Father: {fileID: 325909424840483719}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &395268880092360395
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328992464687690111}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 791fa1a3bfdff164abe3c69d9129f1ce, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300008, guid: 34bf333920b9886469ea633c17e22d4d, type: 3}
+  m_Bones:
+  - {fileID: 325723291440602579}
+  - {fileID: 331842291474882685}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 331842291474882685}
+  m_AABB:
+    m_Center: {x: 0.8778422, y: -0.39357114, z: -7.3727646}
+    m_Extent: {x: 4.1021833, y: 3.5925138, z: 10.420483}
+  m_DirtyAABB: 0
+--- !u!1 &329010459068340955
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325669946518017737}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325669946518017737
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329010459068340955}
+  m_LocalRotation: {x: -0.00000086412376, y: 0.00000028611183, z: 0.26724252, w: 0.9636293}
+  m_LocalPosition: {x: -18.107422, y: 0.000015258789, z: 0}
+  m_LocalScale: {x: 1.000007, y: 1.0000008, z: 0.9999939}
+  m_Children:
+  - {fileID: 331838739750205073}
+  m_Father: {fileID: 331796739479684103}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329014323766080805
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325664298330980725}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325664298330980725
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329014323766080805}
+  m_LocalRotation: {x: 0.123825975, y: 0.3270103, z: 0.2409597, w: 0.90535617}
+  m_LocalPosition: {x: -13.720963, y: -7.7312317, z: 14.405281}
+  m_LocalScale: {x: 1.0000017, y: 0.999996, z: 1.0000032}
+  m_Children:
+  - {fileID: 325706237371719779}
+  m_Father: {fileID: 325867206159152467}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329031191088672309
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331796739479684103}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331796739479684103
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329031191088672309}
+  m_LocalRotation: {x: -0.050162826, y: -0.10187137, z: 0.17847903, w: 0.97736955}
+  m_LocalPosition: {x: -42.54515, y: 8.665268, z: -7.2044067}
+  m_LocalScale: {x: 1.0000107, y: 0.99999756, z: 0.9999932}
+  m_Children:
+  - {fileID: 325669946518017737}
+  m_Father: {fileID: 325867206159152467}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329081819830616833
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331878551217832267}
+  m_Layer: 0
+  m_Name: cave_troll_RLegDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331878551217832267
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329081819830616833}
+  m_LocalRotation: {x: 0.070623346, y: 0.19041452, z: -0.18589321, w: 0.9613524}
+  m_LocalPosition: {x: -50.643856, y: 6.526985, z: 20.380173}
+  m_LocalScale: {x: 0.9999994, y: 0.99999857, z: 1.0000017}
+  m_Children:
+  - {fileID: 332118347276569109}
+  m_Father: {fileID: 325544408508140701}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329092847833073247
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325417256918369053}
+  m_Layer: 0
+  m_Name: cave_troll_LLegAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325417256918369053
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329092847833073247}
+  m_LocalRotation: {x: -0.024957022, y: 0.023064489, z: -0.7344993, w: 0.67775816}
+  m_LocalPosition: {x: -77.29611, y: 0.0000019073486, z: -0.0000038146973}
+  m_LocalScale: {x: 0.9999941, y: 1.0000063, z: 1.0000002}
+  m_Children:
+  - {fileID: 325388896497141889}
+  - {fileID: 332012378393554519}
+  - {fileID: 325632777562943213}
+  - {fileID: 325917400688669255}
+  m_Father: {fileID: 331940219643875141}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329120099048545523
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325477458812297047}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325477458812297047
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329120099048545523}
+  m_LocalRotation: {x: 0.098275095, y: 0.055315144, z: 0.06220567, w: 0.9916717}
+  m_LocalPosition: {x: -41.117706, y: 4.1224213, z: 14.695446}
+  m_LocalScale: {x: 0.99999344, y: 0.9999997, z: 1.000008}
+  m_Children:
+  - {fileID: 331935649356652245}
+  m_Father: {fileID: 325867206159152467}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329126771552425377
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331974610090551199}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit43
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331974610090551199
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329126771552425377}
+  m_LocalRotation: {x: 0.0000016503619, y: 0.0000012425658, z: 0.1807084, w: 0.9835367}
+  m_LocalPosition: {x: -12.915619, y: 0, z: 0.0000076293945}
+  m_LocalScale: {x: 0.99999714, y: 1.0000056, z: 1}
+  m_Children: []
+  m_Father: {fileID: 331639133409266267}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329126827991451863
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325831307707967653}
+  m_Layer: 0
+  m_Name: cave_troll_Hub001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325831307707967653
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329126827991451863}
+  m_LocalRotation: {x: 0.060411572, y: 0.037243865, z: -0.08508843, w: 0.9938427}
+  m_LocalPosition: {x: -182.777, y: 0.7615591, z: 0.07680425}
+  m_LocalScale: {x: 1.0000005, y: 1.0000002, z: 0.9999994}
+  m_Children:
+  - {fileID: 332091426458656031}
+  - {fileID: 325818056611985543}
+  - {fileID: 325579724919031243}
+  - {fileID: 331867038711652171}
+  - {fileID: 331927552198122467}
+  m_Father: {fileID: 325629459667110759}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329133764468681989
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331687014321884259}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331687014321884259
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329133764468681989}
+  m_LocalRotation: {x: 0.06523852, y: 0.092940204, z: 0.3267216, w: 0.9382745}
+  m_LocalPosition: {x: -42.54505, y: 8.665253, z: 7.2044296}
+  m_LocalScale: {x: 0.9999985, y: 0.99999374, z: 1.0000068}
+  m_Children:
+  - {fileID: 331669655044624853}
+  m_Father: {fileID: 331985995270365953}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329151738966526229
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325606668873940137}
+  m_Layer: 0
+  m_Name: cave_troll_LArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325606668873940137
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329151738966526229}
+  m_LocalRotation: {x: -0.043030642, y: 0.7226148, z: -0.025016142, w: 0.6894566}
+  m_LocalPosition: {x: -0, y: 0, z: 22.420006}
+  m_LocalScale: {x: 1, y: 0.99999976, z: 0.99999994}
+  m_Children:
+  - {fileID: 331685446361071653}
+  m_Father: {fileID: 331906795315613549}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329158958136032587
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331585988413478083}
+  m_Layer: 0
+  m_Name: cave_troll_RLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331585988413478083
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329158958136032587}
+  m_LocalRotation: {x: 0.01343439, y: -0.06428372, z: 0.22380114, w: 0.97241974}
+  m_LocalPosition: {x: -89.721565, y: 0.00027561188, z: -0.000061035156}
+  m_LocalScale: {x: 1.0000015, y: 0.9999892, z: 1.0000095}
+  m_Children:
+  - {fileID: 325544408508140701}
+  m_Father: {fileID: 331867038711652171}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329164437050138493
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325579724919031243}
+  m_Layer: 0
+  m_Name: cave_troll_LLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325579724919031243
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329164437050138493}
+  m_LocalRotation: {x: -0.17259748, y: 0.9667313, z: 0.083985835, w: 0.1690773}
+  m_LocalPosition: {x: 0.000045776367, y: 0.000011444092, z: 35.112057}
+  m_LocalScale: {x: 0.9999992, y: 1.0000017, z: 0.99999934}
+  m_Children:
+  - {fileID: 331940219643875141}
+  m_Father: {fileID: 325831307707967653}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329168896136730333
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325818366469557739}
+  m_Layer: 0
+  m_Name: cave_troll_RArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325818366469557739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329168896136730333}
+  m_LocalRotation: {x: 0.14539744, y: -0.7495309, z: -0.14421661, w: 0.62949544}
+  m_LocalPosition: {x: -0, y: 0, z: -22.42001}
+  m_LocalScale: {x: 0.99999964, y: 1.0000005, z: 0.9999999}
+  m_Children:
+  - {fileID: 325820253904721443}
+  m_Father: {fileID: 331906795315613549}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329173498689370671
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325820253904721443}
+  m_Layer: 0
+  m_Name: cave_troll_RArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325820253904721443
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329173498689370671}
+  m_LocalRotation: {x: -0.026539918, y: -0.5622163, z: 0.4100804, w: 0.7176647}
+  m_LocalPosition: {x: -48.349728, y: 0.000049591064, z: 0.0002746582}
+  m_LocalScale: {x: 0.99999964, y: 1.0000006, z: 1.0000007}
+  m_Children:
+  - {fileID: 325524065300261059}
+  m_Father: {fileID: 325818366469557739}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329179940683875441
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332118347276569109}
+  m_Layer: 0
+  m_Name: cave_troll_RLegDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332118347276569109
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329179940683875441}
+  m_LocalRotation: {x: 0.000000006772777, y: 0.00000003676895, z: -0.000000059604353, w: 1}
+  m_LocalPosition: {x: -15.102272, y: 0, z: 0.0000076293945}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 331878551217832267}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329189173031063987
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325720978467009215}
+  m_Layer: 0
+  m_Name: cave_troll_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325720978467009215
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329189173031063987}
+  m_LocalRotation: {x: 0.5000001, y: -0.50000006, z: -0.4999999, w: 0.49999997}
+  m_LocalPosition: {x: -0, y: 0, z: -0.061072655}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_Children: []
+  m_Father: {fileID: 325909424840483719}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329213994140381009
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331927552198122467}
+  m_Layer: 0
+  m_Name: cave_troll_Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331927552198122467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329213994140381009}
+  m_LocalRotation: {x: -0.0055089104, y: -0.013915675, z: 0.12635249, w: 0.99187255}
+  m_LocalPosition: {x: -12.911606, y: -2.6725025, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 332056373523589181}
+  m_Father: {fileID: 325831307707967653}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329229635129771715
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331577563121468581}
+  m_Layer: 0
+  m_Name: cave_troll_RLegDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331577563121468581
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329229635129771715}
+  m_LocalRotation: {x: 0.000000047877734, y: -0.000000027724417, z: 0.10495286, w: 0.9944772}
+  m_LocalPosition: {x: -11.006405, y: -0.0000038146973, z: 0.0000076293945}
+  m_LocalScale: {x: 1.0000002, y: 0.99999917, z: 1}
+  m_Children: []
+  m_Father: {fileID: 331884142195830539}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329230424009925273
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325629459667110759}
+  - component: {fileID: 352067618100644423}
+  - component: {fileID: 343967187713477091}
+  m_Layer: 0
+  m_Name: cave_troll_Transform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325629459667110759
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329230424009925273}
+  m_LocalRotation: {x: 0.46955657, y: -0.4695565, z: -0.5286933, w: 0.5286934}
+  m_LocalPosition: {x: -0.0005827098, y: 0, z: 0.000961858}
+  m_LocalScale: {x: 0.010000003, y: 0.01, z: 0.01}
+  m_Children:
+  - {fileID: 325831307707967653}
+  m_Father: {fileID: 325909424840483719}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &352067618100644423
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329230424009925273}
+  m_Mesh: {fileID: 0}
+--- !u!23 &343967187713477091
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329230424009925273}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &329233288500164379
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331842291474882685}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone006
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331842291474882685
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329233288500164379}
+  m_LocalRotation: {x: -0.0011542292, y: 0.05921667, z: -0.019454783, w: 0.9980549}
+  m_LocalPosition: {x: -24.178928, y: -7.4504395, z: 7.0679903}
+  m_LocalScale: {x: 1.0000004, y: 0.9999996, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329238318292744389
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325692781650335481}
+  m_Layer: 0
+  m_Name: cave_troll_LLegDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325692781650335481
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329238318292744389}
+  m_LocalRotation: {x: 0.000000040804306, y: 0.000000013094721, z: -0.000000022351617, w: 1}
+  m_LocalPosition: {x: -15.102257, y: 0, z: 0.0000076293945}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 325917400688669255}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329240999114940689
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325809785111430519}
+  m_Layer: 0
+  m_Name: cave_troll_Spine2 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325809785111430519
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329240999114940689}
+  m_LocalRotation: {x: 0.070634186, y: 0.003144652, z: -0.030440463, w: 0.99703276}
+  m_LocalPosition: {x: -35.653725, y: 0.000030517578, z: 0}
+  m_LocalScale: {x: 1.0000002, y: 0.9999994, z: 1.0000002}
+  m_Children:
+  - {fileID: 332025617782069395}
+  m_Father: {fileID: 331989682534569019}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329242716071984297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331877593963164125}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit43
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331877593963164125
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329242716071984297}
+  m_LocalRotation: {x: -0.0000014839666, y: -0.0000012807659, z: 0.15920725, w: 0.9872452}
+  m_LocalPosition: {x: -12.915611, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000081, y: 0.9999906, z: 0.9999999}
+  m_Children: []
+  m_Father: {fileID: 331815677493150449}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329249629974599039
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325660109595947377}
+  m_Layer: 0
+  m_Name: cave_troll_LLegDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325660109595947377
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329249629974599039}
+  m_LocalRotation: {x: 0.000000012895503, y: 0.0000000046035713, z: 0.0614231, w: 0.99811184}
+  m_LocalPosition: {x: -20.009995, y: 0, z: -0.0000038146973}
+  m_LocalScale: {x: 0.9999994, y: 0.9999994, z: 0.99999976}
+  m_Children: []
+  m_Father: {fileID: 325632777562943213}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329250538144887135
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332075908114206283}
+  m_Layer: 0
+  m_Name: cave_troll_RArm22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332075908114206283
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329250538144887135}
+  m_LocalRotation: {x: -0.059372034, y: -2.212619e-10, z: 0.0000000037187142, w: 0.99823594}
+  m_LocalPosition: {x: -32.656403, y: 0.0000019073486, z: 0.000015258789}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 331985995270365953}
+  m_Father: {fileID: 325524065300261059}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329256319468368063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331935649356652245}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331935649356652245
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329256319468368063}
+  m_LocalRotation: {x: 0.00000081038826, y: 0.00000013533256, z: 0.33219704, w: 0.94321007}
+  m_LocalPosition: {x: -14.856384, y: 0.000015258789, z: -0.0000038146973}
+  m_LocalScale: {x: 0.9999986, y: 0.999995, z: 1.00001}
+  m_Children:
+  - {fileID: 332118575100642505}
+  m_Father: {fileID: 325477458812297047}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329260110097271145
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331685446361071653}
+  m_Layer: 0
+  m_Name: cave_troll_LArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331685446361071653
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329260110097271145}
+  m_LocalRotation: {x: 0.13603406, y: 0.6025085, z: 0.07540936, w: 0.78281015}
+  m_LocalPosition: {x: -48.349876, y: 0, z: -0.000030517578}
+  m_LocalScale: {x: 1.0000006, y: 1.0000007, z: 1}
+  m_Children:
+  - {fileID: 332013841239450369}
+  m_Father: {fileID: 325606668873940137}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329270009990762385
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325632777562943213}
+  m_Layer: 0
+  m_Name: cave_troll_LLegDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325632777562943213
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329270009990762385}
+  m_LocalRotation: {x: 0.00019300803, y: -0.0007540867, z: -0.22767688, w: 0.9737364}
+  m_LocalPosition: {x: -51.606186, y: 10.396641, z: -0.49312973}
+  m_LocalScale: {x: 0.99999845, y: 1.0000011, z: 1}
+  m_Children:
+  - {fileID: 325660109595947377}
+  m_Father: {fileID: 325417256918369053}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329271055153178303
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331648060131218309}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone010
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331648060131218309
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329271055153178303}
+  m_LocalRotation: {x: 0.000000007826728, y: -0.34414315, z: 0.000000022706415, w: 0.9389172}
+  m_LocalPosition: {x: -24.881771, y: 0.09732056, z: -11.593502}
+  m_LocalScale: {x: 0.9999999, y: 0.9999998, z: 1.0000004}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329289201046310313
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325818056611985543}
+  m_Layer: 0
+  m_Name: cave_troll_Hub001Bone002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325818056611985543
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329289201046310313}
+  m_LocalRotation: {x: -0.14712287, y: 0.9891182, z: 0.00000013170906, w: -0.000000019590596}
+  m_LocalPosition: {x: 9.195465, y: -49.618004, z: -0.00001335144}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+  m_Children:
+  - {fileID: 325550356346526257}
+  m_Father: {fileID: 325831307707967653}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329290650450026279
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331940219643875141}
+  m_Layer: 0
+  m_Name: cave_troll_LLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331940219643875141
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329290650450026279}
+  m_LocalRotation: {x: -0.012488788, y: 0.115631364, z: 0.40409207, w: 0.9072944}
+  m_LocalPosition: {x: -89.72156, y: 0.0002784729, z: 0.000076293945}
+  m_LocalScale: {x: 0.99999905, y: 1.0000051, z: 0.99999684}
+  m_Children:
+  - {fileID: 325417256918369053}
+  m_Father: {fileID: 325579724919031243}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329293143371165635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325835456569377205}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone013
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325835456569377205
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329293143371165635}
+  m_LocalRotation: {x: 0.00000002360006, y: -0.10700332, z: -0.00000001244708, w: 0.9942587}
+  m_LocalPosition: {x: -18.925201, y: -8.895554, z: -5.5095367}
+  m_LocalScale: {x: 1.0000005, y: 0.99999994, z: 1.0000004}
+  m_Children: []
+  m_Father: {fileID: 332128016014177541}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329293641667475243
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331841844851726929}
+  - component: {fileID: 392663464430755265}
+  m_Layer: 0
+  m_Name: upper_teeth_low
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331841844851726929
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329293641667475243}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_Children: []
+  m_Father: {fileID: 325909424840483719}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &392663464430755265
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329293641667475243}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 791fa1a3bfdff164abe3c69d9129f1ce, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300006, guid: 34bf333920b9886469ea633c17e22d4d, type: 3}
+  m_Bones:
+  - {fileID: 331913515583935601}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 331913515583935601}
+  m_AABB:
+    m_Center: {x: -23.113043, y: 5.827941, z: 0.00002670288}
+    m_Extent: {x: 5.0133953, y: 2.4258125, z: 6.585049}
+  m_DirtyAABB: 0
+--- !u!1 &329293821518403625
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332041178213077425}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone004
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332041178213077425
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329293821518403625}
+  m_LocalRotation: {x: -0.03193324, y: -0.09119446, z: -0.2835062, w: 0.9540902}
+  m_LocalPosition: {x: -24.178928, y: -7.45047, z: -7.06798}
+  m_LocalScale: {x: 1.000001, y: 0.99999964, z: 1.0000004}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329294612062992311
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332012378393554519}
+  m_Layer: 0
+  m_Name: cave_troll_LLegDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332012378393554519
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329294612062992311}
+  m_LocalRotation: {x: 0.04416072, y: 0.14310321, z: -0.28868562, w: 0.94563836}
+  m_LocalPosition: {x: -50.867966, y: 6.557728, z: 20.085228}
+  m_LocalScale: {x: 0.9999985, y: 1.0000015, z: 0.99999875}
+  m_Children:
+  - {fileID: 325391299169921579}
+  m_Father: {fileID: 325417256918369053}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329294794329939443
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325577693498959741}
+  m_Layer: 0
+  m_Name: cave_troll_Spine3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325577693498959741
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329294794329939443}
+  m_LocalRotation: {x: -0.03396004, y: 0.002149867, z: -0.055068918, w: 0.9979026}
+  m_LocalPosition: {x: -30.474518, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+  m_Children:
+  - {fileID: 331906795315613549}
+  m_Father: {fileID: 332056373523589181}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329301540553636629
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325430042493539237}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone008
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325430042493539237
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329301540553636629}
+  m_LocalRotation: {x: 0.0000000022108646, y: -0.10700331, z: 0.00000002271844, w: 0.9942587}
+  m_LocalPosition: {x: -29.805702, y: -10.05545, z: -3.506609}
+  m_LocalScale: {x: 1.0000005, y: 0.9999998, z: 1.0000006}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329309143003665639
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325917400688669255}
+  m_Layer: 0
+  m_Name: cave_troll_LLegDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325917400688669255
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329309143003665639}
+  m_LocalRotation: {x: -0.07055593, y: -0.19078624, z: -0.18593638, w: 0.9612753}
+  m_LocalPosition: {x: -50.64389, y: 6.5269814, z: -20.380184}
+  m_LocalScale: {x: 0.9999997, y: 1.0000014, z: 0.99999994}
+  m_Children:
+  - {fileID: 325692781650335481}
+  m_Father: {fileID: 325417256918369053}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329310954456391057
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325485583755885949}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325485583755885949
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329310954456391057}
+  m_LocalRotation: {x: -0.0000027188185, y: 0.0000009375892, z: 0.28462553, w: 0.9586388}
+  m_LocalPosition: {x: -13.0394745, y: 0.0000076293945, z: -0.0000076293945}
+  m_LocalScale: {x: 1.0000005, y: 0.99999154, z: 1.0000099}
+  m_Children: []
+  m_Father: {fileID: 331669655044624853}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329311814069675903
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331852568845740117}
+  m_Layer: 0
+  m_Name: cave_troll_RLegDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331852568845740117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329311814069675903}
+  m_LocalRotation: {x: 0.00000003522706, y: -0.00000010057531, z: 0.17798376, w: 0.98403347}
+  m_LocalPosition: {x: -19.300697, y: 0.0000009536743, z: 0}
+  m_LocalScale: {x: 1.0000014, y: 0.9999984, z: 1}
+  m_Children: []
+  m_Father: {fileID: 332115464241821937}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329312448046564717
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331837106356704279}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331837106356704279
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329312448046564717}
+  m_LocalRotation: {x: -0.0000016268586, y: 0.0000011500074, z: 0.30888078, w: 0.95110077}
+  m_LocalPosition: {x: -12.90609, y: 0, z: -0.0000076293945}
+  m_LocalScale: {x: 1.0000056, y: 1.0000014, z: 0.9999919}
+  m_Children: []
+  m_Father: {fileID: 325504946140271023}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329335538955854361
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331669655044624853}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331669655044624853
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329335538955854361}
+  m_LocalRotation: {x: 0.0000009827061, y: -0.00000011136895, z: 0.41230965, w: 0.91104376}
+  m_LocalPosition: {x: -18.107422, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999962, y: 0.99999577, z: 1.00001}
+  m_Children:
+  - {fileID: 325485583755885949}
+  m_Father: {fileID: 331687014321884259}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329340917929279953
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325570431428526201}
+  m_Layer: 0
+  m_Name: second_handle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325570431428526201
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329340917929279953}
+  m_LocalRotation: {x: 0.829841, y: 0.124759905, z: 0.05543155, w: 0.5410418}
+  m_LocalPosition: {x: 1.4330691, y: 1.3829019, z: 0.6103536}
+  m_LocalScale: {x: 0.010000064, y: 0.010000001, z: 0.009999956}
+  m_Children: []
+  m_Father: {fileID: 325909424840483719}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329345990706491859
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325909424840483719}
+  m_Layer: 0
+  m_Name: troll
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325909424840483719
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329345990706491859}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_Children:
+  - {fileID: 325663738345559741}
+  - {fileID: 325720978467009215}
+  - {fileID: 325629459667110759}
+  - {fileID: 325560451840717419}
+  - {fileID: 325547824244071959}
+  - {fileID: 325570431428526201}
+  - {fileID: 332046286492323939}
+  - {fileID: 325451841535760021}
+  - {fileID: 331841844851726929}
+  m_Father: {fileID: 608365644115238812}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!1 &329350229549812209
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325867206159152467}
+  m_Layer: 0
+  m_Name: cave_troll_LArmPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325867206159152467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329350229549812209}
+  m_LocalRotation: {x: -0.77531356, y: 0.06613584, z: -0.036942374, w: 0.62701696}
+  m_LocalPosition: {x: -32.656418, y: 0.0000076293945, z: 0.000015258789}
+  m_LocalScale: {x: 1.0000086, y: 0.9999933, z: 0.9999995}
+  m_Children:
+  - {fileID: 325664298330980725}
+  - {fileID: 325477458812297047}
+  - {fileID: 331796739479684103}
+  - {fileID: 331917709142628619}
+  m_Father: {fileID: 331619395740137755}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329352184270384483
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332085422435796211}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332085422435796211
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329352184270384483}
+  m_LocalRotation: {x: 0.023173546, y: 0.19627613, z: 0.11494789, w: 0.97351205}
+  m_LocalPosition: {x: -17.922989, y: 0, z: -0.0000076293945}
+  m_LocalScale: {x: 1.000011, y: 0.9999991, z: 0.9999892}
+  m_Children:
+  - {fileID: 325504778145490135}
+  m_Father: {fileID: 325386825694639255}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329362319476053077
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331891807517068045}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331891807517068045
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329362319476053077}
+  m_LocalRotation: {x: -0.1056148, y: -0.039536793, z: 0.21403396, w: 0.9702947}
+  m_LocalPosition: {x: -41.117622, y: 4.122406, z: -14.69548}
+  m_LocalScale: {x: 1.0000106, y: 0.9999977, z: 0.99999255}
+  m_Children:
+  - {fileID: 325504946140271023}
+  m_Father: {fileID: 331985995270365953}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329365018640711723
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325902498188784863}
+  m_Layer: 0
+  m_Name: cave_troll_LLegDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325902498188784863
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329365018640711723}
+  m_LocalRotation: {x: 0.00000010723125, y: 0.00000004877641, z: 0.10495091, w: 0.9944774}
+  m_LocalPosition: {x: -11.006407, y: 0, z: -0.0000038146973}
+  m_LocalScale: {x: 0.99999946, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 325388896497141889}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329369463774765755
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331838739750205073}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331838739750205073
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329369463774765755}
+  m_LocalRotation: {x: 0.000002488402, y: -0.0000012805441, z: 0.13375483, w: 0.9910145}
+  m_LocalPosition: {x: -13.0394745, y: -0.0000076293945, z: 0}
+  m_LocalScale: {x: 1.0000008, y: 1.0000067, z: 0.999994}
+  m_Children: []
+  m_Father: {fileID: 325669946518017737}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329372624206382143
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331867038711652171}
+  m_Layer: 0
+  m_Name: cave_troll_RLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331867038711652171
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329372624206382143}
+  m_LocalRotation: {x: -0.07738707, y: 0.98217386, z: -0.093345664, w: -0.14363976}
+  m_LocalPosition: {x: 0.000015258789, y: -0.0000076293945, z: -35.111942}
+  m_LocalScale: {x: 1.0000011, y: 0.9999989, z: 1.0000005}
+  m_Children:
+  - {fileID: 331585988413478083}
+  m_Father: {fileID: 325831307707967653}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329374431384227199
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325504778145490135}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325504778145490135
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329374431384227199}
+  m_LocalRotation: {x: 0.00000018147327, y: 0.4056444, z: 0.00000027811208, w: 0.91403097}
+  m_LocalPosition: {x: -13.756577, y: 0, z: -0.0000038146973}
+  m_LocalScale: {x: 1.0000265, y: 1.0000001, z: 0.99997205}
+  m_Children: []
+  m_Father: {fileID: 332085422435796211}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329380344919949183
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325909858950596759}
+  m_Layer: 0
+  m_Name: cave_troll_Hub001Bone001Bone001Bone002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325909858950596759
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329380344919949183}
+  m_LocalRotation: {x: 0.00000000152843, y: -0.00000004840446, z: 0.03095954, w: 0.99952066}
+  m_LocalPosition: {x: -30.324013, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999934, y: 0.99999934, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 325550356346526257}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329404997729543735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331778389826677321}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone014
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331778389826677321
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329404997729543735}
+  m_LocalRotation: {x: 0.000000019664263, y: 0.10700346, z: -0.00000000211621, w: 0.99425864}
+  m_LocalPosition: {x: -18.296783, y: -8.789963, z: 5.372691}
+  m_LocalScale: {x: 0.9999993, y: 0.9999999, z: 0.9999991}
+  m_Children: []
+  m_Father: {fileID: 332128016014177541}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329410495379692361
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325408537053551337}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone015
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325408537053551337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329410495379692361}
+  m_LocalRotation: {x: -0.000000001052796, y: 0.10700338, z: 0.000000007606999, w: 0.9942587}
+  m_LocalPosition: {x: -29.6119, y: -10.055481, z: 4.39666}
+  m_LocalScale: {x: 0.9999993, y: 0.9999998, z: 0.9999994}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329416193324906495
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325501492920487129}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone005
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325501492920487129
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329416193324906495}
+  m_LocalRotation: {x: 0.03193296, y: 0.09119423, z: -0.28350616, w: 0.95409024}
+  m_LocalPosition: {x: -24.17892, y: -7.4504395, z: 7.0679903}
+  m_LocalScale: {x: 1.0000002, y: 1.0000008, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329424054310329411
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325722571944925897}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone017
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325722571944925897
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329424054310329411}
+  m_LocalRotation: {x: -0.0000000053263958, y: 0.34414315, z: 0.000000013855478, w: 0.9389172}
+  m_LocalPosition: {x: -23.568447, y: 0.27139282, z: 13.1442995}
+  m_LocalScale: {x: 0.99999994, y: 0.9999998, z: 1.0000004}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329429919527584341
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325482489828529559}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325482489828529559
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329429919527584341}
+  m_LocalRotation: {x: 0.30010095, y: 0.33710957, z: 0.13234685, w: 0.8824857}
+  m_LocalPosition: {x: -33.330246, y: 0.22729492, z: 22.456833}
+  m_LocalScale: {x: 0.9999964, y: 1.0000033, z: 0.99999917}
+  m_Children:
+  - {fileID: 331815677493150449}
+  m_Father: {fileID: 331985995270365953}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329432519890692943
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325547824244071959}
+  - component: {fileID: 395908461596304031}
+  m_Layer: 0
+  m_Name: lower_teeth_low
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325547824244071959
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329432519890692943}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_Children: []
+  m_Father: {fileID: 325909424840483719}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &395908461596304031
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329432519890692943}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 791fa1a3bfdff164abe3c69d9129f1ce, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300004, guid: 34bf333920b9886469ea633c17e22d4d, type: 3}
+  m_Bones:
+  - {fileID: 332128016014177541}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 332128016014177541}
+  m_AABB:
+    m_Center: {x: -16.511982, y: -5.040951, z: -0.000009536743}
+    m_Extent: {x: 4.376177, y: 6.3466616, z: 8.862023}
+  m_DirtyAABB: 0
+--- !u!1 &329451041216215993
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325723291440602579}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325723291440602579
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329451041216215993}
+  m_LocalRotation: {x: 0.0011543036, y: -0.059216708, z: -0.019454755, w: 0.9980549}
+  m_LocalPosition: {x: -24.178928, y: -7.45047, z: -7.0679893}
+  m_LocalScale: {x: 1.0000004, y: 0.9999996, z: 0.9999998}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329487560190025375
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331694689730256247}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331694689730256247
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329487560190025375}
+  m_LocalRotation: {x: -0.0000003775101, y: -0.22358784, z: 0.00000034433532, w: 0.97468376}
+  m_LocalPosition: {x: -13.756577, y: 0, z: 0.0000019073486}
+  m_LocalScale: {x: 1.0000044, y: 0.99999994, z: 0.99999654}
+  m_Children: []
+  m_Father: {fileID: 325706237371719779}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329487779370578107
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331691464726168975}
+  m_Layer: 0
+  m_Name: cave_troll_Hub001Bone001Bone001Bone001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331691464726168975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329487779370578107}
+  m_LocalRotation: {x: 1.9438255e-10, y: -0.00000004287121, z: 0.042545784, w: 0.99909455}
+  m_LocalPosition: {x: -25.270012, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+  m_Children: []
+  m_Father: {fileID: 332018485106443885}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329502019502083101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332014548817535337}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone018
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332014548817535337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329502019502083101}
+  m_LocalRotation: {x: -0.000000001052796, y: 0.10700338, z: 0.000000007606999, w: 0.9942587}
+  m_LocalPosition: {x: -25.794022, y: 5.5213013, z: 6.13593}
+  m_LocalScale: {x: 0.9999993, y: 0.9999998, z: 0.9999994}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329522949038401559
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332133897321416753}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone003
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332133897321416753
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329522949038401559}
+  m_LocalRotation: {x: -0.0685052, y: -0.06814082, z: 0.1609358, w: 0.98222375}
+  m_LocalPosition: {x: -24.178928, y: -7.45047, z: -7.06798}
+  m_LocalScale: {x: 1, y: 1.0000008, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329543608619782971
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331896648672063141}
+  m_Layer: 0
+  m_Name: cave_troll_RLegDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331896648672063141
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329543608619782971}
+  m_LocalRotation: {x: 0.0000000060864607, y: -0.000000010839074, z: 0.061424296, w: 0.9981117}
+  m_LocalPosition: {x: -20.009998, y: -0.0000019073486, z: 0.0000076293945}
+  m_LocalScale: {x: 0.9999997, y: 0.9999995, z: 1}
+  m_Children: []
+  m_Father: {fileID: 325675753306699281}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329555452457217681
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332056373523589181}
+  m_Layer: 0
+  m_Name: cave_troll_Spine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332056373523589181
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329555452457217681}
+  m_LocalRotation: {x: -0.02993292, y: -0.027428158, z: 0.07062396, w: 0.9966765}
+  m_LocalPosition: {x: -37.5206, y: -0.0000009536743, z: -0.0000009536743}
+  m_LocalScale: {x: 0.9999998, y: 0.99999976, z: 1.0000002}
+  m_Children:
+  - {fileID: 325577693498959741}
+  m_Father: {fileID: 331927552198122467}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329558884071959467
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332046286492323939}
+  - component: {fileID: 395291280443712115}
+  m_Layer: 0
+  m_Name: tanga_low
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332046286492323939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329558884071959467}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_Children: []
+  m_Father: {fileID: 325909424840483719}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &395291280443712115
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329558884071959467}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c59556e62f7e1094b8206ac37331476d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 34bf333920b9886469ea633c17e22d4d, type: 3}
+  m_Bones:
+  - {fileID: 325831307707967653}
+  - {fileID: 331867038711652171}
+  - {fileID: 331927552198122467}
+  - {fileID: 332056373523589181}
+  - {fileID: 331585988413478083}
+  - {fileID: 325820253904721443}
+  - {fileID: 325818366469557739}
+  - {fileID: 325577693498959741}
+  - {fileID: 325579724919031243}
+  - {fileID: 332018485106443885}
+  - {fileID: 331691464726168975}
+  - {fileID: 332091426458656031}
+  - {fileID: 325550356346526257}
+  - {fileID: 325818056611985543}
+  - {fileID: 325909858950596759}
+  - {fileID: 331940219643875141}
+  - {fileID: 325606668873940137}
+  - {fileID: 331685446361071653}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 325831307707967653}
+  m_AABB:
+    m_Center: {x: 18.250305, y: 3.3434372, z: 3.958294}
+    m_Extent: {x: 81.84764, y: 76.3282, z: 82.60962}
+  m_DirtyAABB: 0
+--- !u!1 &329572490128209661
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331985995270365953}
+  m_Layer: 0
+  m_Name: cave_troll_RArmPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331985995270365953
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329572490128209661}
+  m_LocalRotation: {x: 0.6582037, y: 0.08445738, z: 0.099425994, w: 0.74145085}
+  m_LocalPosition: {x: -32.656403, y: 0, z: 0.000015258789}
+  m_LocalScale: {x: 1.0000074, y: 0.99999064, z: 1.0000017}
+  m_Children:
+  - {fileID: 325386825694639255}
+  - {fileID: 331891807517068045}
+  - {fileID: 331687014321884259}
+  - {fileID: 325482489828529559}
+  - {fileID: 325902945602274005}
+  m_Father: {fileID: 332075908114206283}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329605129572428497
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325663738345559741}
+  - component: {fileID: 395289146035348715}
+  m_Layer: 0
+  m_Name: Hair
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325663738345559741
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329605129572428497}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_Children: []
+  m_Father: {fileID: 325909424840483719}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &395289146035348715
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329605129572428497}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: abdb9c1ee4c639348b6311e4e961a367, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300010, guid: 34bf333920b9886469ea633c17e22d4d, type: 3}
+  m_Bones:
+  - {fileID: 331913515583935601}
+  - {fileID: 325408537053551337}
+  - {fileID: 325610677892007079}
+  - {fileID: 325433262377279411}
+  - {fileID: 325809785111430519}
+  - {fileID: 332128016014177541}
+  - {fileID: 331989682534569019}
+  - {fileID: 325430042493539237}
+  - {fileID: 325846913543583157}
+  - {fileID: 332133897321416753}
+  - {fileID: 325820253904721443}
+  - {fileID: 325818366469557739}
+  - {fileID: 331648060131218309}
+  - {fileID: 325722571944925897}
+  - {fileID: 331906795315613549}
+  - {fileID: 325606668873940137}
+  - {fileID: 331685446361071653}
+  - {fileID: 332041178213077425}
+  - {fileID: 325822936690670289}
+  - {fileID: 331775364435413325}
+  - {fileID: 325835456569377205}
+  - {fileID: 331778389826677321}
+  - {fileID: 325877093613342075}
+  - {fileID: 325501492920487129}
+  - {fileID: 332014548817535337}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 331906795315613549}
+  m_AABB:
+    m_Center: {x: -33.189995, y: 61.56707, z: -15.80965}
+    m_Extent: {x: 55.048996, y: 48.850098, z: 62.478397}
+  m_DirtyAABB: 0
+--- !u!1 &329760389775248017
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332128016014177541}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332128016014177541
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329760389775248017}
+  m_LocalRotation: {x: 0.000000018629725, y: -0.000000057222525, z: -0.4424636, w: 0.89678645}
+  m_LocalPosition: {x: -9.789688, y: 0.3243103, z: -0.0000009536743}
+  m_LocalScale: {x: 1.0000007, y: 0.99999905, z: 1}
+  m_Children:
+  - {fileID: 325835456569377205}
+  - {fileID: 331778389826677321}
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329774582910116217
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325524065300261059}
+  m_Layer: 0
+  m_Name: cave_troll_RArm21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325524065300261059
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329774582910116217}
+  m_LocalRotation: {x: -0.025249425, y: 0.075760216, z: -0.38530836, w: 0.919326}
+  m_LocalPosition: {x: -59.113495, y: 0.00047302246, z: 0.0014343262}
+  m_LocalScale: {x: 1.0000008, y: 0.9999989, z: 1.0000005}
+  m_Children:
+  - {fileID: 332075908114206283}
+  m_Father: {fileID: 325820253904721443}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &329780266188213481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331989682534569019}
+  m_Layer: 0
+  m_Name: cave_troll_Spine1 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331989682534569019
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 329780266188213481}
+  m_LocalRotation: {x: 0.014328556, y: -0.007498519, z: -0.50122195, w: 0.8651676}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000002, y: 0.9999995, z: 1}
+  m_Children:
+  - {fileID: 325809785111430519}
+  m_Father: {fileID: 331906795315613549}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &330752445305582077
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325391299169921579}
+  m_Layer: 0
+  m_Name: cave_troll_LLegDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325391299169921579
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330752445305582077}
+  m_LocalRotation: {x: -0.0000000070008714, y: 0.000000041323293, z: 0.17798083, w: 0.98403394}
+  m_LocalPosition: {x: -19.300695, y: -0.0000009536743, z: 0}
+  m_LocalScale: {x: 0.99999934, y: 1.0000008, z: 1}
+  m_Children: []
+  m_Father: {fileID: 332012378393554519}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &330756030466630205
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331913515583935601}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331913515583935601
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330756030466630205}
+  m_LocalRotation: {x: 0.00033662302, y: 0.0003380448, z: -0.70568615, w: 0.7085244}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000006, y: 0.999999, z: 1.0000004}
+  m_Children:
+  - {fileID: 332128016014177541}
+  - {fileID: 325723291440602579}
+  - {fileID: 332133897321416753}
+  - {fileID: 332041178213077425}
+  - {fileID: 325501492920487129}
+  - {fileID: 331842291474882685}
+  - {fileID: 325433262377279411}
+  - {fileID: 325430042493539237}
+  - {fileID: 325846913543583157}
+  - {fileID: 331648060131218309}
+  - {fileID: 331775364435413325}
+  - {fileID: 325822936690670289}
+  - {fileID: 325408537053551337}
+  - {fileID: 325610677892007079}
+  - {fileID: 325722571944925897}
+  - {fileID: 332014548817535337}
+  - {fileID: 325877093613342075}
+  m_Father: {fileID: 332025617782069395}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &330776287167738659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325388896497141889}
+  m_Layer: 0
+  m_Name: cave_troll_LLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325388896497141889
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330776287167738659}
+  m_LocalRotation: {x: 0.3879529, y: 0.8255059, z: -0.019514874, w: 0.409453}
+  m_LocalPosition: {x: 3.2301369, y: -18.743834, z: 11.373276}
+  m_LocalScale: {x: 0.99999905, y: 1.0000039, z: 0.99999726}
+  m_Children:
+  - {fileID: 325902498188784863}
+  m_Father: {fileID: 325417256918369053}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &330819691808207577
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331884142195830539}
+  m_Layer: 0
+  m_Name: cave_troll_RLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331884142195830539
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330819691808207577}
+  m_LocalRotation: {x: 0.3879352, y: 0.82567126, z: 0.019656755, w: -0.4091294}
+  m_LocalPosition: {x: 3.230133, y: -18.743828, z: -11.373283}
+  m_LocalScale: {x: 1.0000008, y: 0.9999927, z: 1.0000052}
+  m_Children:
+  - {fileID: 331577563121468581}
+  m_Father: {fileID: 325544408508140701}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &330834342810762937
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325902945602274005}
+  - component: {fileID: 351914063389924553}
+  - component: {fileID: 344226482237069155}
+  m_Layer: 0
+  m_Name: mace_low
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325902945602274005
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330834342810762937}
+  m_LocalRotation: {x: 0.3742098, y: 0.58836854, z: 0.65063626, w: 0.300769}
+  m_LocalPosition: {x: -38.72548, y: -13.166069, z: 1.9133606}
+  m_LocalScale: {x: 0.9999871, y: 1.000006, z: 1.0000027}
+  m_Children: []
+  m_Father: {fileID: 331985995270365953}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &351914063389924553
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330834342810762937}
+  m_Mesh: {fileID: 4300014, guid: 34bf333920b9886469ea633c17e22d4d, type: 3}
+--- !u!23 &344226482237069155
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330834342810762937}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8eafa6cf230ea9b4ea382d3d92df2883, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &330849327784435659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 331815677493150449}
+  m_Layer: 0
+  m_Name: cave_troll_RArmDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &331815677493150449
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330849327784435659}
+  m_LocalRotation: {x: 0.0000004894765, y: 0.00000031373358, z: 0.25453025, w: 0.9670648}
+  m_LocalPosition: {x: -15.10881, y: 0.000015258789, z: 0.0000076293945}
+  m_LocalScale: {x: 1.0000013, y: 0.9999917, z: 1.00001}
+  m_Children:
+  - {fileID: 331877593963164125}
+  m_Father: {fileID: 325482489828529559}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &330858361390895171
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332118575100642505}
+  m_Layer: 0
+  m_Name: cave_troll_LArmDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332118575100642505
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330858361390895171}
+  m_LocalRotation: {x: 0.0000015214513, y: -0.0000014531159, z: 0.15887475, w: 0.9872987}
+  m_LocalPosition: {x: -12.906082, y: 0.0000076293945, z: 0.0000038146973}
+  m_LocalScale: {x: 1.0000005, y: 0.99999297, z: 1.00001}
+  m_Children: []
+  m_Father: {fileID: 331935649356652245}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &330873172271234059
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 325877093613342075}
+  m_Layer: 0
+  m_Name: cave_troll_Hub003Bone001Bone019
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &325877093613342075
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330873172271234059}
+  m_LocalRotation: {x: -0.000000001052796, y: 0.10700338, z: 0.000000007606999, w: 0.9942587}
+  m_LocalPosition: {x: -22.501858, y: 9.089386, z: 10.6846}
+  m_LocalScale: {x: 0.9999993, y: 0.9999998, z: 0.9999994}
+  m_Children: []
+  m_Father: {fileID: 331913515583935601}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &608365644115238801
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 608365644115238812}
+  - component: {fileID: 608365644115238803}
+  - component: {fileID: 608365644115238802}
+  - component: {fileID: 159428462}
+  - component: {fileID: 159428461}
+  - component: {fileID: 318384473}
+  - component: {fileID: 1793485189649596732}
+  m_Layer: 0
+  m_Name: Troll
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &608365644115238812
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608365644115238801}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 325909424840483719}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!195 &608365644115238803
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608365644115238801}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 3.2
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 8
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 8
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &608365644115238802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608365644115238801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf20ff702abb90458a0b9b9c824a8a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chaseRangeRadius: 20
+  stoppingDistance: 8
+  rotationSpeed: 5
+  distanceToTarget: Infinity
+--- !u!136 &159428462
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608365644115238801}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 2
+  m_Height: 8
+  m_Direction: 1
+  m_Center: {x: 0, y: 4, z: 0}
+--- !u!114 &159428461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608365644115238801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55ec1b5f8d5f3a4fa2f2d16062322ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitPoints: 100
+--- !u!114 &318384473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608365644115238801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e05844cdc8ef1a641886cb9e64755b42, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 50
+--- !u!95 &1793485189649596732
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608365644115238801}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 34bf333920b9886469ea633c17e22d4d, type: 3}
+  m_Controller: {fileID: 9100000, guid: 64761ef4c1bff62429685bc33c247e66, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
