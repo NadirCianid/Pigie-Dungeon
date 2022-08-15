@@ -42,9 +42,10 @@
      <Compile Include="Assets\External Assets\Standard Assets\Editor\Water\Water4\GerstnerDisplaceEditor.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Editor\Water\Water4\WaterBaseEditor.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Editor\Water\Water4\WaterEditorUtility.cs" />
-     <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\Editor\CurveGrid.shader" />
-     <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\Editor\Trackball.shader" />
-     <None Include="Assets\External Assets\SineVFX\PostProcessingV2\Shaders\Editor\ConvertToLog.shader" />
+     <Compile Include="Assets\External Assets\NPCs\Villagers\Lowpoly Medieval Characters\Sources\Scripts\Editor\PT_Create_Prefab_Editor.cs" />
+     <None Include="Assets\External Assets\Environment\SineVFX\PostProcessingV2\Shaders\Editor\CurveGrid.shader" />
+     <None Include="Assets\External Assets\Environment\SineVFX\PostProcessingV2\Shaders\Editor\Trackball.shader" />
+     <None Include="Assets\External Assets\Environment\SineVFX\PostProcessingV2\Shaders\Editor\ConvertToLog.shader" />
     <Reference Include="UnityEngine">
         <HintPath>D:\Programms\2020.3.33f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -266,12 +267,6 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
         <HintPath>D:\Programms\2020.3.33f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
-    </Reference>
-    <Reference Include="Assembly-CSharp-firstpass">
-        <HintPath>D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll</HintPath>
-    </Reference>
-    <Reference Include="Assembly-CSharp-Editor-firstpass">
-        <HintPath>D:\Unity Projects\Experementing\Zombie-Shooter\Pigie-Dungeon\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Graphs">
         <HintPath>D:\Programms\2020.3.33f1\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
