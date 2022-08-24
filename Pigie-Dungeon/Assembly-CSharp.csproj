@@ -64,7 +64,7 @@
      <Compile Include="Assets\External Assets\SampleScenes\Scripts\LevelReset.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
-     <Compile Include="Assets\External Assets\Environment\BrokenVector\LowPolyDungeon\Demo Scenes\MouseCamLook.cs" />
+     <Compile Include="Assets\External Assets\Environment\LowPolyDungeon\Demo Scenes\MouseCamLook.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Cameras\Scripts\HandHeldCam.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplanePropellerAnimator.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" />
@@ -142,7 +142,7 @@
      <Compile Include="Assets\External Assets\Standard Assets\Utility\AutoMoveAndRotate.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\FOVKick.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\2D\Scripts\Restarter.cs" />
-     <Compile Include="Assets\External Assets\Environment\BrokenVector\LowPolyDungeon\Demo Scenes\ScreenshotMaker.cs" />
+     <Compile Include="Assets\External Assets\Environment\LowPolyDungeon\Demo Scenes\ScreenshotMaker.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\2D\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\ParticleSystems\Scripts\WaterHoseParticles.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Vehicles\Car\Scripts\CarUserControl.cs" />
@@ -150,7 +150,7 @@
      <Compile Include="Assets\External Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\EventSystemChecker.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
-     <Compile Include="Assets\External Assets\Environment\BrokenVector\LowPolyDungeon\Demo Scenes\PlayerMovement.cs" />
+     <Compile Include="Assets\External Assets\Environment\LowPolyDungeon\Demo Scenes\PlayerMovement.cs" />
      <Compile Include="Assets\External Assets\NPCs\fantasySpider\FSP_ContinuousRotation.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Utility\ActivateTrigger.cs" />
      <Compile Include="Assets\External Assets\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
