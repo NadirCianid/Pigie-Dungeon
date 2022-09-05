@@ -132,7 +132,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.9529412, g: 0.81960785, b: 0.45490196, a: 1}
+  m_Color: {r: 0.94509804, g: 0.70196134, b: 0.31372547, a: 1}
   m_Intensity: 1.1
   m_Range: 10
   m_SpotAngle: 30
@@ -193,7 +193,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4288406783
+    rgba: 4284205813
   m_Size: -0.05
 --- !u!1 &1373816681327764510
 GameObject:
@@ -442,7 +442,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.9529412, g: 0.81960785, b: 0.45490196, a: 1}
+  m_Color: {r: 0.94509804, g: 0.70196134, b: 0.31372547, a: 1}
   m_Intensity: 1.1
   m_Range: 10
   m_SpotAngle: 30
@@ -503,7 +503,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4288406783
+    rgba: 4284205813
   m_Size: -0.05
 --- !u!1 &2962558388476945060
 GameObject:
@@ -593,7 +593,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.9529412, g: 0.81960785, b: 0.45490196, a: 1}
+  m_Color: {r: 0.94509804, g: 0.70196134, b: 0.31372547, a: 1}
   m_Intensity: 1.1
   m_Range: 10
   m_SpotAngle: 30
@@ -654,7 +654,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4288406783
+    rgba: 4284205813
   m_Size: -0.05
 --- !u!1 &4034299983055215339
 GameObject:
@@ -700,7 +700,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.9529412, g: 0.81960785, b: 0.45490196, a: 1}
+  m_Color: {r: 0.94509804, g: 0.70196134, b: 0.31372547, a: 1}
   m_Intensity: 1.1
   m_Range: 10
   m_SpotAngle: 30
@@ -761,7 +761,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4288406783
+    rgba: 4284205813
   m_Size: -0.05
 --- !u!1 &4559376532024242747
 GameObject:
@@ -807,7 +807,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.9529412, g: 0.81960785, b: 0.45490196, a: 1}
+  m_Color: {r: 0.94509804, g: 0.70196134, b: 0.31372547, a: 1}
   m_Intensity: 1.1
   m_Range: 10
   m_SpotAngle: 30
@@ -868,7 +868,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4288406783
+    rgba: 4284205813
   m_Size: -0.05
 --- !u!1 &5078532816604258152
 GameObject:
@@ -914,7 +914,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.9529412, g: 0.81960785, b: 0.45490196, a: 1}
+  m_Color: {r: 0.94509804, g: 0.70196134, b: 0.31372547, a: 1}
   m_Intensity: 1.1
   m_Range: 10
   m_SpotAngle: 30
@@ -975,7 +975,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4288406783
+    rgba: 4284205813
   m_Size: -0.05
 --- !u!1 &5289299642118213962
 GameObject:
@@ -1021,7 +1021,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.9529412, g: 0.81960785, b: 0.45490196, a: 1}
+  m_Color: {r: 0.94509804, g: 0.70196134, b: 0.31372547, a: 1}
   m_Intensity: 1.1
   m_Range: 10
   m_SpotAngle: 30
@@ -1082,7 +1082,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4288406783
+    rgba: 4284205813
   m_Size: -0.05
 --- !u!1 &5297330881077103595
 GameObject:
@@ -1128,7 +1128,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.9529412, g: 0.81960785, b: 0.45490196, a: 1}
+  m_Color: {r: 0.94509804, g: 0.70196134, b: 0.31372547, a: 1}
   m_Intensity: 1.1
   m_Range: 10
   m_SpotAngle: 30
@@ -1189,7 +1189,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4288406783
+    rgba: 4284205813
   m_Size: -0.05
 --- !u!1 &5866840724650261777
 GameObject:
